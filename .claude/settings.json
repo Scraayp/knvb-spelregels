@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(cd \"d:/knvb-spelregels\" && mkdir -p scripts data && rm -f scratch_*.py scratch_*.json scratch_*.txt && ls)",
+      "Bash(python scripts/parse_pdf.py)",
+      "Bash(rm -f scratch_*.py)",
+      "Bash(git check-ignore *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "D:\\knvb-spelregels"
+    ]
+  }
+}

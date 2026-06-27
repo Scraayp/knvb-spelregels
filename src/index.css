@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+/* Class-based dark mode (toggle .dark on <html>); also follows the OS when
+   the user leaves the theme on "system" via a .dark class set in main.tsx. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-pitch-50: #fff4ec;
+  --color-pitch-100: #ffe3cf;
+  --color-pitch-400: #ff8a3d;
+  --color-pitch-500: #ff6a00;
+  --color-pitch-600: #e85d00;
+  --color-pitch-700: #b84a00;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--color-pitch-50);
+  color: #1a1d21;
+}
+
+.dark body {
+  background: #14161a;
+  color: #e8eaed;
+}
+
+/* Tap targets shouldn't show the grey flash on mobile. */
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-pop {
+  animation: pop-in 0.18s ease-out both;
+}

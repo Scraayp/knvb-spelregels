@@ -134,3 +134,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Python (PDF parser tooling)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated review tool (regenerate with scripts/build_review.py)
+review.html
