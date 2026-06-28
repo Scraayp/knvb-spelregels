@@ -4,10 +4,12 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Self-learning trainer for the KNVB football rules exam (spelregelvragen).",
+  "main": "app.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node app.js"
   },
   "dependencies": {
     "react": "^19.1.0",
