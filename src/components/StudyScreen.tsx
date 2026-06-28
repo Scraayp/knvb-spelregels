@@ -17,6 +17,7 @@ interface Props {
   totalRemaining: number | null;
   onAnswer: (result: AnswerResult) => void;
   onNext: () => void;
+  onBack: () => void;
   onQuit: () => void;
 }
 
@@ -31,6 +32,7 @@ export function StudyScreen({
   totalRemaining,
   onAnswer,
   onNext,
+  onBack,
   onQuit,
 }: Props) {
   const [chosen, setChosen] = useState<string | null>(null);
@@ -81,6 +83,11 @@ export function StudyScreen({
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (!revealed) {
+        if (e.key === "ArrowLeft" && indexInSession > 0) {
+          e.preventDefault();
+          onBack();
+          return;
+        }
         const byLabel = DISPLAY_LABELS.indexOf(e.key.toLowerCase());
         const byNum = "1234".indexOf(e.key);
         const idx = byLabel >= 0 ? byLabel : byNum >= 0 ? byNum : -1;
@@ -93,7 +100,7 @@ export function StudyScreen({
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [revealed, answer, onNext, shuffledOptions]);
+  }, [revealed, answer, onNext, onBack, indexInSession, shuffledOptions]);
 
   const isLast = indexInSession + 1 >= sessionTotal;
   const showClock = settings.timeMode !== "none";
@@ -116,6 +123,15 @@ export function StudyScreen({
         >
           ✕ Stop
         </button>
+        {indexInSession > 0 && !revealed && (
+          <button
+            onClick={onBack}
+            className="rounded-lg px-2 py-1 text-sm text-zinc-500 transition hover:bg-black/5 dark:hover:bg-white/10"
+            aria-label="Vorige vraag"
+          >
+            ← Vorige
+          </button>
+        )}
         <div className="flex-1">
           <div className="mb-1 flex justify-between text-xs font-medium text-zinc-500">
             <span>

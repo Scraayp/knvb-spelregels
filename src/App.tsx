@@ -106,6 +106,34 @@ export default function App() {
     else setIndex((i) => i + 1);
   };
 
+  const handleBack = () => {
+    if (index === 0 || results.length === 0) return;
+    const lastResult = results[results.length - 1];
+    const qId = lastResult.questionId;
+    setProgress((prev) => {
+      const stat = prev[qId];
+      if (!stat) return prev;
+      const next = {
+        ...prev,
+        [qId]: {
+          ...stat,
+          seen: Math.max(0, stat.seen - 1),
+          correct: Math.max(0, stat.correct - (lastResult.correct ? 1 : 0)),
+          wrong: Math.max(0, stat.wrong - (lastResult.correct ? 0 : 1)),
+        },
+      };
+      saveProgress(next);
+      return next;
+    });
+    setDaily((prev) => {
+      const next = { ...prev, todayCount: Math.max(0, prev.todayCount - 1) };
+      saveDaily(next);
+      return next;
+    });
+    setResults((prev) => prev.slice(0, -1));
+    setIndex((i) => i - 1);
+  };
+
   const quit = () => setView(results.length > 0 ? "summary" : "home");
 
   const resetProgress = () => {
@@ -126,6 +154,7 @@ export default function App() {
         totalRemaining={totalRemaining}
         onAnswer={handleAnswer}
         onNext={handleNext}
+        onBack={handleBack}
         onQuit={quit}
       />
     );
