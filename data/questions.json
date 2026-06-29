@@ -7,121 +7,115 @@
   "questions": [
     {
       "id": 1,
-      "rule": 3,
+      "rule": 14,
       "tags": [
-        "wisselspeler",
-        "hervatting",
-        "onbehoorlijkgedrag"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Op het moment dat een speler binnen het speelveld voorbij komt lopen, gooit een gewisselde speler van de tegenpartij vanaf de bank een bidon naar deze speler. Hoe hervat de scheidsrechter het spel nadat hij dit heeft onderbroken en de gewisselde speler een rode kaart heeft getoond?",
+      "questionText": "Bij het nemen van een strafschop glijdt de nemer uit op het moment dat hij de bal trapt, waardoor de bal ook tegen zijn andere voet komt. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Hij laat de strafschop overnemen."
         },
         {
           "letter": "b",
-          "text": "Met een indirecte vrije schop op de plaats waar de speler werd geraakt of geraakt zou worden."
+          "text": "Hij kent een indirecte vrije schop toe aan de verdedigende partij."
         },
         {
           "letter": "c",
-          "text": "Met een indirecte vrije schop op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Als er wordt gescoord laat hij de strafschop overnemen, wordt er niet gescoord dan kent hij een indirecte vrije schop toe aan de verdedigende partij."
         },
         {
           "letter": "d",
-          "text": "Met een directe vrije schop op de plaats waar de speler werd geraakt of geraakt zou worden."
+          "text": "Hij hervat het spel met een scheidsrechtersbal voor de doelverdediger."
         }
       ],
-      "correctLetter": "d",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 2,
-      "rule": 12,
+      "rule": 14,
       "tags": [
-        "binnenbuiten",
-        "onbehoorlijkgedrag",
-        "hervatting",
-        "geelrood",
-        "gooienvoorwerp"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "De scheidsrechter onderbreekt het spel omdat hij zag dat een verdediger het speelveld verliet en één van de wisselspelers van de tegenpartij (die aan het warmlopen waren) in het gezicht spuwde. Hoe zal de scheidsrechter nu moeten handelen?",
+      "questionText": "Nadat de strafschop correct genomen is komt de bal via de lat, weer bij de nemer, die de bal nu in het doel schiet. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij toont de verdediger een rode kaart en hervat het spel met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Indien de bal ook geraakt is door de doelverdediger laat hij de strafschop overnemen."
         },
         {
           "letter": "b",
-          "text": "Hij toont de verdediger een rode kaart en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij op de zijlijn het dichtst bij de plaats waar de overtreding plaatsvond."
+          "text": "Indien de bal verder door niemand geraakt is kent hij een indirecte vrije schop toe."
         },
         {
           "letter": "c",
-          "text": "Hij toont de verdediger een rode kaart en laat het spel hervatten met een directe vrije schop voor de tegenpartij op de zijlijn het dichtst bij de plaats waar de overtreding plaatsvond."
+          "text": "Hij hervat het spel met een scheidsrechtersbal voor de doelverdediger."
         },
         {
           "letter": "d",
-          "text": "Hij toont de verdediger een rode kaart en hervat het spel met een scheidsrechtersbal op de plaats waar de bal het laatst geraakt werd."
+          "text": "Hij keurt het doelpunt goed."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "b",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 3,
-      "rule": 14,
+      "rule": 3,
       "tags": [
-        "uitvoeringstrafschop"
+        "betredenspeelveld",
+        "hervatting"
       ],
-      "questionText": "Nadat de scheidsrechter het teken voor het nemen van een strafschop heeft gegeven maakt de nemer na de afronding van zijn aanloop een schijnbeweging en hij trapt de bal vervolgens in het doel. Wat moet de scheidsrechter beslissen?",
+      "questionText": "De coach van de bezoekers staat in de instructiezone. Als de bal naar hem toe rolt, buiten bereik van spelers, stapt de coach naar voren om de bal op te pakken en stopt hij de bal met zijn voet terwijl die nog boven de zijlijn is. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij laat een aftrap nemen na een geldig doelpunt."
+          "text": "Hij laat het spel hervatten met een indirecte vrije schop voor de tegenpartij."
         },
         {
           "letter": "b",
-          "text": "Hij keurt het doelpunt af en laat de strafschop overnemen en toont een gele kaart aan de nemer."
+          "text": "Hij laat het spel hervatten met een directe vrije schop voor de tegenpartij en toont de coach de gele kaart."
         },
         {
           "letter": "c",
-          "text": "Hij keurt het doelpunt af en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij vanaf de plaats van de overtreding en toont een gele kaart aan de nemer."
+          "text": "Hij laat het spel hervatten met een directe vrije schop voor de tegenpartij en toont de coach de rode kaart."
         },
         {
           "letter": "d",
-          "text": "Hij keurt het doelpunt af en hervat het spel met een scheidsrechtersbal vanaf de plaats van de overtreding."
+          "text": "Hij hervat het spel met een scheidsrechtersbal."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "a",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 4,
-      "rule": 5,
+      "rule": 3,
       "tags": [
-        "scheidsrechter",
-        "geelrood"
+        "wisselprocedure"
       ],
-      "questionText": "De assistent-scheidsrechter steekt zijn vlag omhoog om aan te geven dat de bal de zijlijn geheel gepasseerd heeft en roept dit ook door de headset. Voordat de scheidsrechter echter kan affluiten, ziet de scheidsrechter dat een verdediger binnen zijn strafschopgebied een tegenstander slaat. Wat moet de beslissing van de scheidsrechter zijn?",
+      "questionText": "In de rust wisselt partij A een speler. Dit wordt volgens de regels aan de scheidsrechter gemeld. Als de ploegen klaar staan voor de aftrap, beledigt de wisselspeler van A, die dus net het speelveld ingekomen is, de assistent-scheidsrechter. Deze speler wordt direct weggestuurd door het tonen van de rode kaart. Mag de wisselspeler worden vervangen als ploeg A nog niet alle wisselspelers heeft verbruikt?",
       "options": [
         {
           "letter": "a",
-          "text": "De scheidsrechter toont de verdediger een rode kaart en hervat het spel met een inworp."
+          "text": "Nee, als de speler het speelveld heeft betreden en de wissel is gemeld dan is de wisselprocedure afgerond."
         },
         {
           "letter": "b",
-          "text": "De scheidsrechter toont de verdediger een rode kaart en hervat het spel met een strafschop."
+          "text": "Dat mag alleen als zijn team nog wisselspelers heeft die kunnen invallen."
         },
         {
           "letter": "c",
-          "text": "De scheidsrechter toont de verdediger een gele kaart en hervat het spel met een strafschop."
+          "text": "Dat mag; het spel is nog niet hervat; de wissel is nog niet onherroepelijk."
         },
         {
           "letter": "d",
-          "text": "De scheidsrechter toont de verdediger een gele kaart en hervat het spel met een inworp."
+          "text": "Dat mag, zolang de wisselspeler de bal nog niet heeft gespeeld."
         }
       ],
       "correctLetter": "a",
@@ -130,27 +124,27 @@
     },
     {
       "id": 5,
-      "rule": 12,
+      "rule": 3,
       "tags": [
-        "(in)direct"
+        "wisselprocedure"
       ],
-      "questionText": "In welke van de volgende situaties dient het spel te worden hervat met een directe vrije schop (of strafschop) als de overtreding wordt begaan door een veldspeler?",
+      "questionText": "Ondanks aanwijzingen van de scheidsrechter verlaat een gewisselde speler het speelveld niet bij de dichtstbijzijnde zijlijn, maar steekt erg langzaam het hele veld over. Hierdoor duurt het verlaten van het speelveld langer dan 10 seconden, waarop de scheidsrechter aangeeft dat de nieuwe speler het speelveld nog niet mag betreden. Wat moet er nu verder gebeuren?",
       "options": [
         {
           "letter": "a",
-          "text": "Een tegenstander in diens loop belemmeren."
+          "text": "Het spel wordt hervat en na 1 minuut geeft de scheidsrechter een teken aan de wisselspeler dat hij het veld mag betreden."
         },
         {
           "letter": "b",
-          "text": "Spelen op gevaarlijke wijze zonder daarbij de tegenstander te raken."
+          "text": "De uitgewisselde speler ontvangt een gele kaart. Daarna wordt het spel hervat en na 1 minuut geeft de scheidsrechter een teken aan de wisselspeler dat hij het veld mag betreden."
         },
         {
           "letter": "c",
-          "text": "Een speler verlaat het speelveld tijdens het spel om een wisselspeler van de tegenpartij een klap te geven."
+          "text": "Het spel wordt hervat en de wisselspeler krijgt pas toestemming om het veld te betreden bij de eerstvolgende onderbreking nadat 1 minuut is verstreken."
         },
         {
           "letter": "d",
-          "text": "De assistent-scheidsrechter beledigen."
+          "text": "De uitgewisselde speler ontvangt een gele kaart. Daarna wordt het spel hervat en de wisselspeler krijgt pas toestemming om het veld te betreden bij de eerstvolgende onderbreking nadat 1 minuut is verstreken."
         }
       ],
       "correctLetter": "c",
@@ -159,58 +153,27 @@
     },
     {
       "id": 6,
-      "rule": 5,
+      "rule": 3,
       "tags": [
-        "scheidsrechter"
+        "betredenspeelveld"
       ],
-      "questionText": "Op slag van rust wordt een doelpunt gescoord. De scheidsrechter kent het doelpunt toe, maar in plaats van nog te laten aftrappen fluit hij onmiddellijk af voor de rust. Terwijl iedereen nog op het speelveld is, krijgt de scheidsrechter van zijn assistent te horen dat het doelpunt door de aanvaller opzettelijk met de hand is gescoord. Wat moet de scheidsrechter nu beslissen als hij het advies van zijn assistent-scheidsrechter overneemt?",
+      "questionText": "Bij een botsing raken twee tegenstanders geblesseerd en hebben verzorging nodig. De scheidsrechter onderbreekt hiervoor het spel en staat de verzorgers toe om het speelveld te betreden. Wat moet er nu gebeuren nadat die verzorging is afgerond?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij annuleert het doelpunt en laat de spelers gaan rusten."
+          "text": "Omdat beide spelers geblesseerd waren mogen zij in dit geval op het veld blijven, het spel wordt hervat met een scheidsrechtersbal."
         },
         {
           "letter": "b",
-          "text": "Hij annuleert het doelpunt, toont de aanvaller een gele kaart en laat de spelers gaan rusten."
+          "text": "Beide spelers dienen het speelveld te verlaten en mogen pas terugkeren nadat het spel hervat is en de scheidsrechter hen toestemming heeft gegeven."
         },
         {
           "letter": "c",
-          "text": "Hij annuleert het doelpunt, toont de aanvaller een gele kaart en laat een directe vrije schop nemen op de plaats waar ‘hands’ was gemaakt. Onmiddellijk hierna fluit hij af voor de rust."
+          "text": "Beide spelers dienen het speelveld te verlaten en mogen nadat het spel hervat is en er 1 minuut is verstreken weer het speelveld betreden."
         },
         {
           "letter": "d",
-          "text": "Hij kent een doelpunt toe, want hij had gefloten voor de rust."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 7,
-      "rule": 12,
-      "tags": [
-        "geelrood",
-        "(in)direct",
-        "voorkomenscoringskans"
-      ],
-      "questionText": "Op het moment dat een aanvaller ter hoogte van de doellijn de bal in het verlaten doel van de tegenpartij wil koppen, trapt een tegenstander de bal met een te hoog geheven been voor zijn hoofd weg zonder daarbij de tegenstander te raken. Wat moet de scheidsrechter beslissen?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Hij kent een indirecte vrije schop toe wegens het spelen op gevaarlijke wijze."
-        },
-        {
-          "letter": "b",
-          "text": "Hij toont de te hoog trappende speler een gele kaart wegens het spelen op gevaarlijke wijze en kent een indirecte vrije schop toe."
-        },
-        {
-          "letter": "c",
-          "text": "Hij toont de te hoog trappende speler een gele kaart wegens het spelen op gevaarlijke wijze en kent een strafschop toe."
-        },
-        {
-          "letter": "d",
-          "text": "Hij toont de te hoog trappende speler een rode kaart wegens het spelen op gevaarlijke wijze en het daarmee voorkomen van een duidelijke scoringskans en kent een indirecte vrije schop toe."
+          "text": "Beide spelers dienen het speelveld te verlaten en mogen pas terugkeren nadat het spel hervat is, er minstens 1 minuut is verstreken en de scheidsrechter hen toestemming heeft gegeven."
         }
       ],
       "correctLetter": "d",
@@ -218,29 +181,57 @@
       "verified": false
     },
     {
-      "id": 8,
-      "rule": 3,
+      "id": 7,
+      "rule": 8,
       "tags": [
-        "wedstrijdformulier",
-        "wisselspeler"
+        "scheidsrechtersbal"
       ],
-      "questionText": "Kort voor de aftrap merkt de 4e official dat er een op het wedstrijdformulier vermelde wisselspeler op het speelveld staat in plaats van een op het wedstrijdformulier vermelde speler, zonder dat dit aan de arbitrage is gemeld. De 4e official informeert de scheidsrechter via de headset. Wat moet de scheidsrechter nu doen?",
+      "questionText": "Een speler ontvangt de bal in de buurt van de zijlijn en wil hem doorspelen naar een medespeler, hij raakt de bal echter totaal verkeerd waardoor deze over de zijlijn zal gaan. Echter precies op dat punt staat de assistent-scheidsrechter en via hem stuit de bal, voordat hij geheel over de lijn is gegaan, weer terug naar de betreffende speler, die vervolgens een veelbelovende aanval kan starten. Wat moet er nu gebeuren?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij moet de betrokken wisselspeler gewoon mee laten doen en dit voorval achteraf melden aan de KNVB. Het aantal wisselspelers wordt verminderd met één."
+          "text": "Omdat de bal in het spel blijft en hetzelfde team balbezit houdt laat de scheidsrechter doorspelen."
         },
         {
           "letter": "b",
-          "text": "Hij moet de betrokken wisselspeler gewoon mee laten doen en dit voorval achteraf melden aan de KNVB. Het aantal wisselspelers wordt niet verminderd."
+          "text": "De scheidsrechter fluit af en hervat het spel met een scheidsrechtersbal op de zijlijn voor een speler van de partij die balbezit had."
         },
         {
           "letter": "c",
-          "text": "Hij moet de wisselspeler verbieden mee te doen en dit voorval achteraf melden aan de KNVB."
+          "text": "De scheidsrechter fluit af en hervat het spel met een scheidsrechtersbal op de zijlijn voor een speler van de andere partij."
         },
         {
           "letter": "d",
-          "text": "Hij moet de wisselspeler naar de kant verwijzen en hem pas laten deelnemen aan het spel bij de eerstvolgende onderbreking na de aftrap. Achteraf meldt hij dit aan de KNVB."
+          "text": "De scheidsrechter fluit af en hervat het spel met een scheidsrechtersbal op de plaats waar de bal was toen hij het spel onderbrak voor een speler van de partij die balbezit had."
+        }
+      ],
+      "correctLetter": "c",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 8,
+      "rule": 16,
+      "tags": [
+        "doelschop"
+      ],
+      "questionText": "Omdat zijn partij met 1-0 voor staat en er niet lang meer te spelen is, doet een doelverdediger er erg lang over om de bal op te halen en klaar te leggen voor het nemen van een doelschop. Wat moet de scheidsrechter nu doen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Hij toont de doelverdediger een gele kaart en telt de verloren gegane tijd bij."
+        },
+        {
+          "letter": "b",
+          "text": "Hij fluit en begint direct 5 seconden af te tellen, als de doelschop na die 5 seconden nog niet genomen is, kent hij een hoekschop toe aan de tegenpartij."
+        },
+        {
+          "letter": "c",
+          "text": "Hij fluit en wacht tot de doelverdediger met de bal in het doelgebied is, dan begint hij 5 seconden af te tellen en als de doelschop daarna nog niet genomen is, kent hij een hoekschop toe aan de tegenpartij."
+        },
+        {
+          "letter": "d",
+          "text": "Hij fluit en begint direct 5 seconden af te tellen, als de doelschop na die 5 seconden nog niet genomen is, kent hij een hoekschop toe aan de tegenpartij en toont de doelverdediger een gele kaart."
         }
       ],
       "correctLetter": "b",
@@ -249,27 +240,27 @@
     },
     {
       "id": 9,
-      "rule": 3,
+      "rule": 14,
       "tags": [
-        "spelers"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Bij een wedstrijd in het betaalde voetbal hebben beide teams in de loop van de tweede helft het aantal toegestane wisselmomenten gebruikt, waarbij beide teams niet het toegestane aantal wissels hebben gebruikt. Wat moet er gebeuren als daarna een speler geblesseerd raakt met een mogelijke hersenschudding?",
+      "questionText": "Tijdens een strafschoppenserie stuit de bal uit een strafschop via de lat vóór de doellijn op de grond en gaat dan alsnog in het doel. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Beide teams krijgen een extra wisselmoment en mogen daarbij spelers wisselen tot het toegestane aantal wissels is bereikt."
+          "text": "Doelpunt afkeuren en de strafschop als gemist noteren, want de strafschop is niet rechtstreeks in het doel geschoten."
         },
         {
           "letter": "b",
-          "text": "Alleen het team van de geblesseerde speler krijgt een extra wisselmoment en mag de geblesseerde speler vervangen door een wisselspeler."
+          "text": "Doelpunt afkeuren en de strafschop als gemist noteren, want de strafschop heeft zijn uitwerking gehad op het moment dat de bal tegen de lat komt."
         },
         {
           "letter": "c",
-          "text": "Het team van de geblesseerde speler mag deze speler vervangen door een wisselspeler of gewisselde speler en het andere team krijgt ook een extra wisselmoment, waarin zij 1 speler mogen wisselen."
+          "text": "Doelpunt afkeuren en de strafschop als gemist noteren, want de strafschop heeft zijn uitwerking gehad op het moment dat de bal vóór de doellijn op de grond komt."
         },
         {
           "letter": "d",
-          "text": "Het team van de geblesseerde speler mag deze speler vervangen door een wisselspeler en het andere team krijgt ook een extra wisselmoment, waarin zij 1 speler mogen wisselen."
+          "text": "Doelpunt."
         }
       ],
       "correctLetter": "d",
@@ -278,56 +269,29 @@
     },
     {
       "id": 10,
-      "rule": 1,
+      "rule": 12,
       "tags": [
-        "speelveld"
+        "onbehoorlijkgedrag",
+        "binnenbuiten",
+        "gooienvoorwerp"
       ],
-      "questionText": "Logo’s en Emblemen. Wat staat daar over vermeld in de regels? Welke van deze 4 antwoorden is het juiste?",
+      "questionText": "Terwijl de bal in het spel is, spuwt de doelverdediger, die zich binnen het eigen strafschopgebied bevindt, een tegenstander, die zich buiten het strafschopgebied, maar binnen het speelveld bevindt, in het gezicht. Welke maatregelen moet de scheidsrechter nemen?",
       "options": [
         {
           "letter": "a",
-          "text": "Logo’s en emblemen van clubs en bonden zijn geoorloofd in de ruimte van het doelnet en vanaf 1 m van de doel- of zijlijnen in de rust van de wedstrijd."
+          "text": "De doelverdediger wordt van het speelveld gezonden en het spel wordt hervat met een strafschop."
         },
         {
           "letter": "b",
-          "text": "Logo’s en emblemen van de FIFA, confederaties, nationale bonden, competities, clubs of andere lichamen zijn toegestaan op de vlaggen van de hoekvlaggenstokken."
+          "text": "Indirecte vrije schop op de plaats waar de doelverdediger zich bevond, alsmede het wegzenden van de doelverdediger."
         },
         {
           "letter": "c",
-          "text": "Logo’s en emblemen van de FIFA, confederaties, nationale bonden, competities, clubs of andere lichamen mogen op het speelveld, de doelnetten en de netruimtes, de doelen en de vlaggenstokken tijdens de wedstrijd."
+          "text": "Strafschop, alsmede een waarschuwing voor de doelverdediger."
         },
         {
           "letter": "d",
-          "text": "Logo’s en emblemen mogen alleen op de hoekvlaggen na de wedstrijd."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 11,
-      "rule": 8,
-      "tags": [
-        "scheidsrechtersbal"
-      ],
-      "questionText": "Op het moment dat de bal de grond raakt bij een scheidsrechtersbal, trapt een speler de bal rechtstreeks in eigen doel. Hoe moet het spel verder?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Doelpunt."
-        },
-        {
-          "letter": "b",
-          "text": "Scheidsrechtersbal opnieuw nemen."
-        },
-        {
-          "letter": "c",
-          "text": "Indirecte vrije trap voor de aanvallende partij."
-        },
-        {
-          "letter": "d",
-          "text": "Hoekschop."
+          "text": "De doelverdediger wordt van het speelveld gezonden en het spel wordt hervat met een directe vrije schop vanaf de plaats waar de tegenstander zich bevond, toen hij werd bespuwd."
         }
       ],
       "correctLetter": "d",
@@ -335,28 +299,30 @@
       "verified": false
     },
     {
-      "id": 12,
-      "rule": null,
+      "id": 11,
+      "rule": 12,
       "tags": [
-        "praktischerichtlijnen"
+        "binnenbuiten",
+        "wisselspeler",
+        "hervatting"
       ],
-      "questionText": "Wanneer is een fluitsignaal nodig?",
+      "questionText": "Tijdens het spel ziet de scheidsrechter dat een vervangen speler vanuit de dug-out spuwt naar een tegenstander, die binnen het speelveld loopt. Wat moet de scheidsrechter beslissen, nadat hij hiervoor het spel heeft onderbroken?",
       "options": [
         {
           "letter": "a",
-          "text": "Bij het toekennen van een doelpunt."
+          "text": "Hij stuurt de spuwende speler weg en hervat het spel met een scheidsrechtersbal op de zijlijn, zo dicht mogelijk bij de plaats van de overtreding."
         },
         {
           "letter": "b",
-          "text": "Om het spel te hervatten nadat het spel onderbroken is voor het tonen van een kaart."
+          "text": "Hij toont de spuwende speler de rode kaart en hervat het spel met een directe vrije schop op de plaats waar hij de tegenstander raakte of geraakt zou hebben."
         },
         {
           "letter": "c",
-          "text": "Om het spel te laten hervatten met een vrije schop."
+          "text": "Hij toont de spuwende speler de rode kaart en hervat het spel met een indirecte vrije schop op de plaats waar de tegenstander stond toen hij het spel onderbrak."
         },
         {
           "letter": "d",
-          "text": "Bij het toekennen van een hoekschop."
+          "text": "Hij toont de spuwende speler de rode kaart en hervat het spel met een scheidsrechtersbal op de plaats waar de bal was op het moment van onderbreken."
         }
       ],
       "correctLetter": "b",
@@ -364,59 +330,86 @@
       "verified": false
     },
     {
-      "id": 13,
-      "rule": 5,
+      "id": 12,
+      "rule": 14,
       "tags": [
-        "scheidsrechter",
-        "hervatting"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Voordat op het middenveld een vrije schop wordt genomen ziet de assistent-scheidsrechter dat een verdediger in zijn eigen strafschopgebied een tegenstander een klap in het gezicht geeft en steekt de vlag in de lucht. Echter, de vrije schop wordt genomen en pas dán reageert de scheidsrechter omdat hij via de headset door de assistent-scheidsrechter wordt geïnformeerd en hij fluit af. Wat moet de scheidsrechter nu beslissen?",
+      "questionText": "Bij het nemen van een strafschop loopt een speler van de aanvallende partij te vroeg toe. De bal wordt door de doelverdediger tegengehouden, waarna de bal bij een derde aanvaller terecht komt die niet te vroeg was toegelopen. Wat beslist de scheidsrechter als deze aanvaller de bal in het doel schiet?",
       "options": [
         {
           "letter": "a",
-          "text": "Rode kaart voor de verdediger en het spel hervatten met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Indirecte vrije schop voor de verdedigende partij op de plaats waar de aanvaller te vroeg toeliep."
         },
         {
           "letter": "b",
-          "text": "Rode kaart voor de verdediger en het spel laten hervatten met een indirecte vrije schop op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Indirecte vrije schop voor de verdedigende partij op de plaats waar de aanvaller te vroeg toeliep en een waarschuwing voor deze te vroeg toegelopen aanvaller door het tonen van de gele kaart."
         },
         {
           "letter": "c",
-          "text": "Rode kaart voor de verdediger en het spel laten hervatten met een strafschop."
+          "text": "Strafschop overnemen en een vermaning voor de te vroeg toegelopen aanvaller."
         },
         {
           "letter": "d",
-          "text": "Rode kaart voor de verdediger en de vrije schop op het middenveld laten overnemen."
+          "text": "Doelpunt toekennen, omdat de speler die te vroeg toeliep geen invloed had op het vervolg van de strafschop."
         }
       ],
-      "correctLetter": "a",
+      "correctLetter": "d",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 13,
+      "rule": 12,
+      "tags": [
+        "vierendoelpunt"
+      ],
+      "questionText": "Na het maken van een doelpunt trekt een speler zijn shirt uit en gooit dit in het publiek. De speler draagt echter nóg een shirt onder het uitgetrokken shirt, identiek aan het shirt dat hij heeft uitgetrokken, dus inclusief naam en rugnummer. Wat moet de scheidsrechter beslissen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Hij vermaant de speler dit niet meer te doen."
+        },
+        {
+          "letter": "b",
+          "text": "Hij toont de speler een gele kaart."
+        },
+        {
+          "letter": "c",
+          "text": "Hij staat dit toe omdat het ondershirt gelijk is aan het shirt dat is uitgetrokken."
+        },
+        {
+          "letter": "d",
+          "text": "Hij staat dit toe omdat de speler geen reclame, politieke, religieuze of persoonlijke uiting op het shirt heeft staan."
+        }
+      ],
+      "correctLetter": "b",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 14,
-      "rule": 12,
+      "rule": 15,
       "tags": [
-        "geelrood",
-        "hervatting"
+        "inworp"
       ],
-      "questionText": "Net buiten het strafschopgebied wordt een aanvaller door een tegenstander bij zijn shirt vastgepakt omdat de aanvaller dreigt door te breken. Op de lijn van het strafschopgebied laat de tegenstander de aanvaller weer los, waardoor de aanvaller valt. De scheidsrechter fluit af en moet:",
+      "questionText": "Een speler werpt de bal in. De scheidsrechter ziet dat de speler tijdens de inworp met beide hakken op de zijlijn staat en met de rest van zijn voeten in het speelveld. De tegenpartij is van mening dat de inworp daarom niet correct is genomen en protesteert. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Een directe vrije schop toekennen."
+          "text": "Hij fluit af omdat bij een inworp beide voeten van de speler die de inworp neemt zich achter de zijlijn moeten bevinden en laat de tegenpartij inwerpen."
         },
         {
           "letter": "b",
-          "text": "Een directe vrije schop toekennen en de verdediger de gele kaart of rode kaart tonen."
+          "text": "Hij fluit af omdat bij een inworp beide voeten van de speler die de inworp neemt zich volledig op of achter de zijlijn moeten bevinden en laat de tegenpartij inwerpen."
         },
         {
           "letter": "c",
-          "text": "Een strafschop toekennen."
+          "text": "Hij fluit af omdat bij een inworp beide voeten van de speler die de inworp neemt zich volledig op of achter de zijlijn moeten bevinden en laat de inworp overnemen."
         },
         {
           "letter": "d",
-          "text": "Een strafschop toekennen en de verdediger een gele kaart of rode kaart tonen."
+          "text": "Hij laat het spel doorgaan omdat de inworp correct is uitgevoerd."
         }
       ],
       "correctLetter": "d",
@@ -425,57 +418,57 @@
     },
     {
       "id": 15,
-      "rule": 13,
+      "rule": 3,
       "tags": [
-        "vrijeschop",
-        "eigendoelpunt"
+        "betredenspeelveld"
       ],
-      "questionText": "Een verdediger speelt een directe vrije schop van buiten zijn eigen strafschopgebied terug naar zijn doelman. De doelman let niet op en de bal verdwijnt achter hem in het doel. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Een wisselspeler, die zonder toestemming van de scheidsrechter het veld in is gekomen, wordt in het strafschopgebied van de tegenpartij door een tegenstander geschopt. Op dat moment constateert de scheidsrechter, dat deze wisselspeler zich tegen de regels op het speelveld bevindt. Wat moet de scheidsrechter beslissen als hij hiervoor het spel heeft onderbroken?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij kent een doelpunt toe en laat hervatten met een aftrap na geldig doelpunt."
+          "text": "Hij toont de schoppende speler een rode kaart, toont de wisselspeler een gele kaart en laat het spel hervatten met een indirecte vrije schop tegen de wisselspeler op de plaats waar deze speler werd geschopt."
         },
         {
           "letter": "b",
-          "text": "Hij kent een hoekschop toe."
+          "text": "Hij toont de schoppende speler een rode kaart, toont de wisselspeler een gele kaart en laat het spel hervatten met een indirecte vrije schop tegen de wisselspeler op de plaats waar de bal was toen het spel werd onderbroken."
         },
         {
           "letter": "c",
-          "text": "Hij laat de directe vrije schop overnemen."
+          "text": "Hij toont de schoppende speler een rode kaart, toont de wisselspeler een gele kaart en laat het spel hervatten met een strafschop tegen de schoppende speler."
         },
         {
           "letter": "d",
-          "text": "Hij kent een doelschop toe."
+          "text": "Hij toont de schoppende speler een rode kaart, toont de wisselspeler een gele kaart en hervat het spel met een scheidsrechtersbal voor de doelverdediger."
         }
       ],
-      "correctLetter": "b",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 16,
-      "rule": 12,
+      "rule": 13,
       "tags": [
-        "hands"
+        "vrijeschop",
+        "snelnemen"
       ],
-      "questionText": "Een doelverdediger wil de bal uitwerpen maar de gladde bal glijdt uit zijn handen. Een aanvaller komt nu snel toegelopen maar de doelverdediger ziet echter nog net kans om de bal uit zijn doelgebied weg te slaan, voordat de aanvaller de bal in het doel kan trappen. Wat moet de scheidsrechter beslissen?",
+      "questionText": "De doelverdediger heeft haast met het nemen van een directe vrije schop omdat zijn team met 4-3 achterstaat. Hij legt de bal op de grond, maar deze rolt nog als hij deze naar voren schiet. De bal belandt rechtstreeks in de voeten van een tegenstander die een leeg doel voor zich heeft. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij fluit af, toont de doelverdediger een rode kaart wegens het ontnemen van een duidelijke scoringskans en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij op de plaats waar de doelverdediger de bal voor de tweede keer speelde."
+          "text": "Directe vrije schop overnemen"
         },
         {
           "letter": "b",
-          "text": "Hij fluit af en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij op de lijn van het doelgebied die evenwijdig loopt aan de doellijn zo dicht mogelijk bij de plaats waar de doelverdediger de bal voor de tweede keer speelde."
+          "text": "Voordeel geven aan de tegenpartij, dus doorspelen"
         },
         {
           "letter": "c",
-          "text": "Hij fluit af en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij op plaats waar de doelverdediger de bal voor de tweede keer speelde."
+          "text": "Scheidsrechtersbal voor de doelverdediger"
         },
         {
           "letter": "d",
-          "text": "Hij laat doorspelen omdat de bal per ongeluk uit de handen van de doelverdediger gleed."
+          "text": "Directe vrije schop voor de tegenpartij"
         }
       ],
       "correctLetter": "b",
@@ -486,117 +479,115 @@
       "id": 17,
       "rule": 3,
       "tags": [
-        "spelers"
+        "wisselprocedure"
       ],
-      "questionText": "Een speler die wegens een blessure buiten de lijnen werd verzorgd, betreedt zonder toestemming van de scheidsrechter het veld bij de middenlijn. Bijna direct hierna scoort zijn team een doelpunt. Wat is de juiste beslissing van de scheidsrechter als hij dit daarna opmerkt?",
+      "questionText": "Een uit te wisselen speler probeert het spel wat te vertragen door langzaam naar de zijlijn te gaan. De scheidsrechter maant hem om tempo te maken en telt hierbij ook de laatste 5 van 10 seconden af. Voordat de speler het veld uiteindelijk heeft verlaten zijn er duidelijk meer dan 10 seconden verstreken. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij keurt het doelpunt af, want er bevond zich een speler van de partij die scoorde zonder toestemming op het veld en hervat met een directe vrije schop."
+          "text": "De wissel gewoon uitvoeren de verloren gegane tijd bijtellen"
         },
         {
           "letter": "b",
-          "text": "Hij keurt het doelpunt goed omdat de speler niet ingreep in het spel."
+          "text": "De wissel nog niet laten uitvoeren. Eén minuut nadat het spel weer is hervat, alsnog toestemming aan de wisselspeler geven om het speelveld te betreden"
         },
         {
           "letter": "c",
-          "text": "Hij keurt het doelpunt af, want er bevond zich een speler van de partij die scoorde zonder toestemming op het veld en hervat met een directe vrije schop, de betreffende speler ontvangt een gele kaart."
+          "text": "De wissel nog niet laten uitvoeren. Eén minuut nadat het spel weer is hervat, tijdens de eerste spelonderbreking, alsnog toestemming aan de wisselspeler geven om het veld te betreden"
         },
         {
           "letter": "d",
-          "text": "Hij keurt het doelpunt goed omdat de speler niet ingreep in het spel, de betreffende speler ontvangt wel een gele kaart."
+          "text": "Niet laten wisselen en de speler die het spel vertraagde een gele kaart tonen."
         }
       ],
-      "correctLetter": "d",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 18,
-      "rule": 15,
+      "rule": 3,
       "tags": [
-        "inworp"
+        "betredenspeelveld"
       ],
-      "questionText": "Bij een inworp blijft de inwerper zodanig lang met de bal in zijn handen staan, dat de scheidsrechter besluit om te fluiten en hem een gele kaart te tonen wegens tijdrekken. Hoe moet het spel hierna worden hervat?",
+      "questionText": "Een speler bevindt zich, terwijl het spel gaande is, tijdelijk buiten het speelveld. In welke gevallen moet het spel onderbroken zijn alvorens hij het speelveld weer mag betreden?",
       "options": [
         {
           "letter": "a",
-          "text": "Met een indirecte vrije schop voor de tegenpartij op de zijlijn."
+          "text": "De speler is een veldspeler die door de scheidsrechter is opgedragen het veld te verlaten om zijn uitrusting in orde te brengen."
         },
         {
           "letter": "b",
-          "text": "Met een directe vrije schop voor de tegenpartij op de zijlijn."
+          "text": "De speler is een invaller die buiten het speelveld moet wachten totdat 1 minuut is verstreken omdat een vervangen speler bij de wissel niet binnen 10 seconden het speelveld had verlaten."
         },
         {
           "letter": "c",
-          "text": "Met een inworp voor dezelfde partij."
+          "text": "De speler is een geblesseerde veldspeler die buiten het speelveld moet wachten totdat 1 minuut is verstreken omdat hij op het veld behandeling heeft gehad."
         },
         {
           "letter": "d",
-          "text": "Met een inworp voor de tegenpartij."
+          "text": "De speler is een veldspeler die na een sliding buiten het veld is geraakt en onmiddellijk wil terugkeren."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "b",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 19,
-      "rule": 12,
+      "rule": null,
       "tags": [
-        "geelrood",
-        "(in)direct",
-        "voorkomenscoringskans"
+        "blessure"
       ],
-      "questionText": "Een paar meter voor het doel kopt een verdediger de bal veel te laag weg op het moment dat een aanvaller de bal in het lege doel wil schieten. Wat moet de scheidsrechter beslissen als de bal daardoor over de doellijn naast het doel gaat?",
+      "questionText": "In welke van de onderstaande situaties moeten de spelers het veld verlaten na op het veld een korte medische behandeling te hebben gekregen?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij kent een hoekschop toe."
+          "text": "Twee spelers van hetzelfde team komen met elkaar in botsing en hebben verzorging nodig."
         },
         {
           "letter": "b",
-          "text": "Hij toont de verdediger een gele kaart en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij op de plaats waar de verdediger zich schuldig maakte aan gevaarlijk spel."
+          "text": "Na een onbesuisde tackle van een verdediger, die door de scheidsrechter is bestraft met een gele kaart, heeft zijn tegenstander verzorging nodig."
         },
         {
           "letter": "c",
-          "text": "Hij toont de verdediger een rode kaart en laat het spel hervatten met een strafschop wegens het voorkomen van een duidelijke scoringskans."
+          "text": "Twee tegenstanders raken na een kopduel geblesseerd aan het hoofd en hebben beiden verzorging nodig."
         },
         {
           "letter": "d",
-          "text": "Hij toont de verdediger een rode kaart wegens het voorkomen van een duidelijke scoringskans en laat het spel hervatten met een indirecte vrije schop voor de tegenpartij."
+          "text": "Een doelverdediger en een aanvaller van de tegenstander komen met elkaar in botsing en hebben beiden verzorging nodig."
         }
       ],
-      "correctLetter": "d",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 20,
-      "rule": 12,
+      "rule": null,
       "tags": [
-        "vierendoelpunt"
+        "hervatting"
       ],
-      "questionText": "Na het scoren van een doelpunt zie je vaak dat een speler zijn shirt omhoogtrekt en op zijn onderkleding iets laat zien. Wat mag daarop staan?",
+      "questionText": "In welke van de onderstaande situaties dient een uitgevoerde spelhervatting te worden overgenomen?",
       "options": [
         {
           "letter": "a",
-          "text": "Een persoonlijke afbeelding."
+          "text": "Een inworp wordt op onjuiste wijze uitgevoerd en de bal belandt bij een tegenstander die een aanval kan starten."
         },
         {
           "letter": "b",
-          "text": "Een slogan."
+          "text": "Een vrije schop wordt door een speler tactisch, maar niet op een onbesuisde of buitensporige wijze, tegen de rug van de tegenstander getrapt met de bedoeling de bal opnieuw te kunnen spelen."
         },
         {
           "letter": "c",
-          "text": "Het logo van de fabrikant."
+          "text": "Een scheidsrechtersbal wordt uitgevoerd voor een speler van partij A. Voordat de speler de bal speelt wordt de bal veroverd en gespeeld door een tegenstander die op het moment dat de bal de grond raakte op een afstand van 5 meter stond."
         },
         {
           "letter": "d",
-          "text": "Een persoonlijke uiting."
+          "text": "Een strafschop wordt per ongeluk twee keer geraakt door de nemer en de bal belandt in het doel."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "d",
       "confidence": "high",
       "verified": false
     },
@@ -604,27 +595,26 @@
       "id": 21,
       "rule": 12,
       "tags": [
-        "onbehoorlijkgedrag",
-        "binnenbuiten",
-        "gooienvoorwerp"
+        "geelrood",
+        "voorkomenscoringskans"
       ],
-      "questionText": "De doelverdediger heeft de bal in zijn bezit gekregen. Vervolgens werpt hij de bal (staande in zijn eigen strafschopgebied) opzettelijk in het gezicht van een tegenstander die zich buiten het strafschopgebied, maar binnen het speelveld bevindt. Hoe moet het spel worden hervat?",
+      "questionText": "In welke van onderstaande situaties wordt de overtreding van een verdediger niet gevolgd door een disciplinaire straf (gele of rode kaart)?",
       "options": [
         {
           "letter": "a",
-          "text": "Met een strafschop."
+          "text": "Een verdediger maakt een onbesuisde tackle en de scheidsrechter past de voordeelregel toe, waarna er wordt gescoord."
         },
         {
           "letter": "b",
-          "text": "Met een directe vrije schop buiten het strafschopgebied."
+          "text": "Een verdediger slaat met zijn hand de bal uit het doel, voorkomt hiermee een doelpunt maar de scheidsrechter past de voordeelregel toe waarna er alsnog wordt gescoord."
         },
         {
           "letter": "c",
-          "text": "Met een indirecte vrije schop buiten het strafschopgebied."
+          "text": "Een verdediger maakt een onvoorzichtige overtreding waarmee hij een tegenstander een duidelijke scoringskans ontneemt, en de scheidsrechter kent een strafschop toe."
         },
         {
           "letter": "d",
-          "text": "Met een indirecte vrije schop op de plaats waar de doelverdediger stond."
+          "text": "Een verdediger ontneemt een aanvaller een duidelijke scoringskans door een onvoorzichtige overtreding maar de scheidsrechter past de voordeelregel toe, waarna een andere aanvaller de bal ongehinderd naast het doel schiet."
         }
       ],
       "correctLetter": "b",
@@ -633,28 +623,27 @@
     },
     {
       "id": 22,
-      "rule": 12,
+      "rule": 14,
       "tags": [
-        "onbehoorlijkgedrag",
-        "binnenbuiten"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Tijdens het spel slaat een speler vanuit het speelveld een assistent-scheidsrechter die op de zijlijn loopt. Hoe zal het spel hervat moeten worden nadat de scheidsrechter het spel heeft onderbroken en de aanvaller een rode kaart heeft getoond?",
+      "questionText": "De nemer van een strafschop raakt de bal na het nemen opzettelijk een tweede keer met zijn voet. Wat beslist de scheidsrechter als de bal vervolgens in het doel gaat?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij laat het spel hervatten met een indirecte vrije schop op de zijlijn."
+          "text": "Strafschop overnemen."
         },
         {
           "letter": "b",
-          "text": "Hij laat het spel hervatten met een indirecte vrije schop op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Indirecte vrije schop en een gele kaart voor de nemer."
         },
         {
           "letter": "c",
-          "text": "Hij hervat het spel met een directe vrije schop op de zijlijn."
+          "text": "Indirecte vrije schop."
         },
         {
           "letter": "d",
-          "text": "Hij hervat het spel met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Doelschop."
         }
       ],
       "correctLetter": "c",
@@ -663,89 +652,88 @@
     },
     {
       "id": 23,
-      "rule": 16,
+      "rule": 4,
       "tags": [
-        "doelschop",
-        "truc"
+        "uitrusting"
       ],
-      "questionText": "Uit een doelschop speelt de doelverdediger de bal rechtstreeks naar een medespeler, die zich buiten het strafschopgebied bevindt. Deze laatste wipt de bal met de voet omhoog en kopt vervolgens de bal naar zijn eigen doelverdediger, die de bal daarna met de hand(en) aanraakt. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Welke van de onderstaande stellingen is onjuist?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij laat doorspelen."
+          "text": "Het dragen van een gladde ring door een speler is niet toegestaan."
         },
         {
           "letter": "b",
-          "text": "Hij fluit af, toont deze medespeler een gele kaart en laat het spel hervatten met een indirecte vrije schop op de plaats waar de overtreding door deze speler werd begaan."
+          "text": "Een slidingbroek is alleen toegestaan als deze dezelfde kleur heeft als de hoofdkleur van de korte broek of de kleur van het onderste gedeelte van de broek."
         },
         {
           "letter": "c",
-          "text": "Hij fluit af, laat het spel hervatten met een indirecte vrije schop op de plaats waar de doelverdediger de bal met de hand aanraakt."
+          "text": "Een speler is verplicht om scheenbeschermers te dragen."
         },
         {
           "letter": "d",
-          "text": "Hij fluit af, toont de doelverdediger een gele kaart en laat het spel hervatten met een indirecte vrije schop op de plaats waar de doelverdediger de bal met de hand raakt."
+          "text": "Accessoires zijn toegestaan zolang ze niet gevaarlijk zijn en veilig en stevig zijn bedekt."
         }
       ],
-      "correctLetter": "b",
+      "correctLetter": "a",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 24,
-      "rule": 11,
+      "rule": 12,
       "tags": [
-        "buitenspel",
+        "binnenbuiten",
         "betredenspeelveld",
-        "spelers"
+        "hervatting"
       ],
-      "questionText": "Bij een aanval door de tegenpartij stapt een verdediger opzettelijk over de zijlijn, omdat hij denkt, dat je zodoende een aanvaller buitenspel kunt zetten. Nadat de doelman de bal heeft gevangen stapt de verdediger weer het speelveld in. Wat moet de scheidsrechter nu beslissen?",
+      "questionText": "Een aanvaller verlaat tijdens een aanval bewust het speelveld bij de doellijn van de tegenstander om zich te onttrekken aan buitenspel. De bal blijft in het strafschopgebied, en op het moment dat een verdediger de bal terugspeelt op zijn doelverdediger loopt de aanvaller terug het veld in, onderschept de bal en scoort. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij laat doorspelen."
+          "text": "Aftrap na geldig doelpunt."
         },
         {
           "letter": "b",
-          "text": "Hij onderbreekt en zal de verdediger een gele kaart tonen wegens het zonder toestemming verlaten en betreden van het speelveld. Hij laat hervatten met een indirecte vrije schop op de plaats waar de verdediger het veld in kwam."
+          "text": "Indirecte vrije schop vanwege buitenspel."
         },
         {
           "letter": "c",
-          "text": "Hij laat doorspelen en zal de verdediger bij de eerstvolgende onderbreking een gele kaart tonen wegens het zonder toestemming verlaten en betreden van het speelveld."
+          "text": "Indirecte vrije schop vanwege het zonder toestemming van de scheidsrechter betreden van het speelveld."
         },
         {
           "letter": "d",
-          "text": "Hij onderbreekt en zal de verdediger een gele kaart tonen wegens het zonder toestemming verlaten en betreden van het speelveld. Hij laat hervatten met een indirecte vrije schop op de plaats waar de bal was op het moment van onderbreken."
+          "text": "Directe vrije schop en gele kaart vanwege het zonder toestemming van de scheidsrechter betreden van het speelveld en invloed hebben op het spel."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "d",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 25,
-      "rule": 5,
+      "rule": 12,
       "tags": [
-        "scheidsrechter",
-        "toeschouwer"
+        "onbehoorlijkgedrag",
+        "teamofficial"
       ],
-      "questionText": "Als partij A in balbezit is onderbreekt de scheidsrechter het spel omdat er een toeschouwer op het speelveld is. Hoe en waar moet het spel dan worden hervat?",
+      "questionText": "In welke van onderstaande gevallen dient een teamofficial van het veld te worden gezonden?",
       "options": [
         {
           "letter": "a",
-          "text": "Met een scheidsrechtersbal op de plaats waar de toeschouwer het speelveld betrad."
+          "text": "Herhaaldelijk verlaten van de instructiezone."
         },
         {
           "letter": "b",
-          "text": "Met een scheidsrechtersbal op de plaats waar de toeschouwer stond toen het spel werd onderbroken."
+          "text": "Sarcastisch klappen na een beslissing van de scheidsrechter."
         },
         {
           "letter": "c",
-          "text": "Met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Vertragen van een inworp van de tegenstander door de bal weg te trappen."
         },
         {
           "letter": "d",
-          "text": "Met een indirecte vrije schop voor partij A op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Het vragen om een kaart voor een tegenstander."
         }
       ],
       "correctLetter": "c",
@@ -756,25 +744,143 @@
       "id": 26,
       "rule": 12,
       "tags": [
-        "(in)direct"
+        "onbehoorlijkgedrag",
+        "wisselspeler",
+        "hervatting"
       ],
-      "questionText": "Welke van de onderstaande overtredingen moet bestraft worden met een directe vrije schop (of strafschop)?",
+      "questionText": "Bij een veelbelovende aanval raakt de aanvaller in balbezit, bij zijn poging de bal binnen te houden, zelf buiten de zijlijn. Daar wordt hij bewust tegengehouden door een warmlopende wisselspeler van de tegenpartij. Hoe wordt het spel hervat nadat de scheidsrechter de wisselspeler een gele kaart heeft getoond?",
       "options": [
         {
           "letter": "a",
-          "text": "Een speler trapt met een hooggeheven been, maar raakt daarbij zijn tegenstander niet."
+          "text": "Met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
         },
         {
           "letter": "b",
-          "text": "Een speler spuwt naar een toeschouwer."
+          "text": "Met een indirecte vrije schop op de zijlijn het dichtst bij de plaats van de overtreding."
         },
         {
           "letter": "c",
-          "text": "Een speler probeert een tegenstander te slaan."
+          "text": "Met een indirecte vrije schop op de plaats waar de bal was toen het spel werd onderbroken."
         },
         {
           "letter": "d",
-          "text": "Een speler voorkomt dat de doelverdediger de bal uit zijn handen in het spel kan brengen."
+          "text": "Met een directe vrije schop op de zijlijn het dichtst bij de plaats van de overtreding."
+        }
+      ],
+      "correctLetter": "d",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 27,
+      "rule": 12,
+      "tags": [
+        "hands"
+      ],
+      "questionText": "Een speler van de verdedigende partij, die zich vlakbij de zijlijn bevindt, vangt tijdens het spel binnen het speelveld de bal die anders over de zijlijn zou zijn gegaan. Wat beslist de scheidsrechter?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Directe vrije schop voor de tegenpartij."
+        },
+        {
+          "letter": "b",
+          "text": "Inworp voor de tegenpartij."
+        },
+        {
+          "letter": "c",
+          "text": "Directe vrije schop voor de tegenpartij en een gele kaart voor onsportief gedrag voor de verdediger."
+        },
+        {
+          "letter": "d",
+          "text": "Directe vrije schop voor de tegenpartij en een gele kaart voor opzettelijk hands voor de verdediger."
+        }
+      ],
+      "correctLetter": "a",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 28,
+      "rule": 12,
+      "tags": [
+        "voordeel"
+      ],
+      "questionText": "Een veelbelovende aanval wordt onderbroken door een verdediger doordat hij op het middenveld met een sliding zijn tegenstander op onvoorzichtige ten val brengt. De scheidsrechter wil de voordeelregel toepassen omdat de bal na de overtreding in de richting van een andere aanvaller rolt. Deze blijkt zich echter in buitenspelpositie te bevinden. Wat beslist de scheidsrechter nu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Indirecte vrije schop vanwege buitenspel."
+        },
+        {
+          "letter": "b",
+          "text": "Directe vrije schop vanwege het ten val brengen van de tegenstander."
+        },
+        {
+          "letter": "c",
+          "text": "Indirecte vrije schop voor buitenspel en een gele kaart voor de verdediger."
+        },
+        {
+          "letter": "d",
+          "text": "Directe vrije schop en een gele kaart voor het onderbreken van een veelbelovende aanval."
+        }
+      ],
+      "correctLetter": "d",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 29,
+      "rule": 12,
+      "tags": [
+        "balbezitdoelverdediger"
+      ],
+      "questionText": "Een doelverdediger vangt in zijn eigen strafschopgebied tijdens het spel de bal en gooit deze vervolgens na zeven seconden voor zijn eigen voeten op de grond, duidelijk met het doel om tijd te rekken. Wat beslist de scheidsrechter?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Hoekschop."
+        },
+        {
+          "letter": "b",
+          "text": "Indirecte vrije schop tegen de doelverdediger."
+        },
+        {
+          "letter": "c",
+          "text": "Indirecte vrije schop en gele kaart tegen de doelverdediger."
+        },
+        {
+          "letter": "d",
+          "text": "Doorspelen."
+        }
+      ],
+      "correctLetter": "d",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 30,
+      "rule": 8,
+      "tags": [
+        "scheidsrechtersbal"
+      ],
+      "questionText": "Op het moment dat de bal richting de zijlijn wordt getrapt door partij A terwijl er geen medespeler meer in de buurt van de bal is, fluit de scheidsrechter af omdat er een speler geblesseerd is aan zijn hoofd. Hoe moet de scheidsrechter nu het spel hervatten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Met een scheidsrechtersbal voor partij A op de plek waar de bal was op het moment van affluiten."
+        },
+        {
+          "letter": "b",
+          "text": "Met een scheidsrechtersbal voor partij A op de plek waar deze het laatst gespeeld is door partij A."
+        },
+        {
+          "letter": "c",
+          "text": "Met een scheidsrechtersbal voor partij B op de plek waar de bal was op het moment van affluiten."
+        },
+        {
+          "letter": "d",
+          "text": "Met een scheidsrechtersbal voor partij B op de plek waar deze het laatst gespeeld is door partij A."
         }
       ],
       "correctLetter": "c",
@@ -782,146 +888,28 @@
       "verified": false
     },
     {
-      "id": 27,
-      "rule": 11,
-      "tags": [
-        "buitenspel",
-        "binnenbuiten"
-      ],
-      "questionText": "Een aanvaller die zich achter de doellijn heeft teruggetrokken om zich aan buitenspel te onttrekken, schreeuwt in die positie een aanwijzing naar een medespeler, die ter hoogte van de strafschopstip in het bezit van de bal is. De scheidsrechter fluit af en geeft de schreeuwende speler een waarschuwing. Hoe hervat hij het spel?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
-        },
-        {
-          "letter": "b",
-          "text": "Een indirecte vrije schop vanaf de plaats waar de bal zich bevond toen afgefloten werd."
-        },
-        {
-          "letter": "c",
-          "text": "Een scheidsrechtersbal op de doellijn, zo dicht mogelijk bij de plaats waar de schreeuwende speler stond."
-        },
-        {
-          "letter": "d",
-          "text": "Een indirecte vrije schop op de doellijn, zo dicht mogelijk bij de plaats waar de schreeuwende speler stond."
-        }
-      ],
-      "correctLetter": "d",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 28,
-      "rule": 14,
-      "tags": [
-        "uitvoeringstrafschop"
-      ],
-      "questionText": "Bij het nemen van een strafschop wordt de doelverdediger misleid doordat op het moment van schieten de strafschopnemer iets roept. Wat beslist de scheidsrechter indien de bal in het doel gaat?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Directe vrije schop tegen de strafschopnemer."
-        },
-        {
-          "letter": "b",
-          "text": "Overnemen van de strafschop en een gele kaart voor onsportief gedrag."
-        },
-        {
-          "letter": "c",
-          "text": "Doelpunt."
-        },
-        {
-          "letter": "d",
-          "text": "Indirecte vrije schop tegen de strafschopnemer en een gele kaart voor onsportief gedrag."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 29,
-      "rule": 13,
-      "tags": [
-        "vrijeschop"
-      ],
-      "questionText": "Voor een bepaalde overtreding wordt een indirecte vrije schop toegekend. Dit is een juiste beslissing. De scheidsrechter geeft een fluitsignaal, maar vergeet zijn arm omhoog te steken. De bal wordt vervolgens van buiten het strafschopgebied direct in het doel van de tegenpartij geschoten. Welke beslissing neemt de scheidsrechter, als hij zijn fout bemerkt?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Doelpunt toekennen."
-        },
-        {
-          "letter": "b",
-          "text": "De vrije schop wordt overgenomen, nadat de scheidsrechter heeft laten weten dat hij verzuimd heeft zijn arm omhoog te steken."
-        },
-        {
-          "letter": "c",
-          "text": "Doelschop."
-        },
-        {
-          "letter": "d",
-          "text": "Indirecte vrije schop voor de tegenpartij op dezelfde plaats waar de eerste schop werd genomen."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 30,
-      "rule": 1,
-      "tags": [
-        "speelveld"
-      ],
-      "questionText": "Welke vorm van reclame is toegestaan binnen de instructiezone?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Reclame op borden lager dan 1,20 meter."
-        },
-        {
-          "letter": "b",
-          "text": "Logo van de thuisspelende partij."
-        },
-        {
-          "letter": "c",
-          "text": "Logo van de KNVB."
-        },
-        {
-          "letter": "d",
-          "text": "Geen enkele vorm van reclame is toegestaan."
-        }
-      ],
-      "correctLetter": "d",
-      "confidence": "high",
-      "verified": false
-    },
-    {
       "id": 31,
-      "rule": 5,
+      "rule": 15,
       "tags": [
-        "scheidsrechter",
-        "spelers"
+        "inworp"
       ],
-      "questionText": "In de 35e minuut van de eerste helft wordt een speler zijn tweede gele kaart getoond. Het ontgaat de scheidsrechter evenwel dat dit zijn tweede is. Hij komt er pas in de rust achter. Hoe dient hij nu te handelen?",
+      "questionText": "Een speler van partij A neemt een inworp, maar doet dat met één voet duidelijk in het veld. De bal komt echter bij een speler van partij B terecht die direct een gevaarlijke aanval op kan zetten. Wat moet de scheidsrechter doen?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij kan niets meer doen."
+          "text": "De scheidsrechter laat de speler van partij A opnieuw inwerpen."
         },
         {
           "letter": "b",
-          "text": "Hij meldt het voorval bij de bond, maar laat de speler verder spelen."
+          "text": "De scheidsrechter laat de speler van partij A opnieuw inwerpen en geeft de speler een vermaning."
         },
         {
           "letter": "c",
-          "text": "Hij ontzegt hem alsnog het verder meespelen en meldt het voorval bij de bond."
+          "text": "De scheidsrechter past de voordeelregel toe."
         },
         {
           "letter": "d",
-          "text": "Hij kan hem pas wegsturen als hem nogmaals de gele of rode kaart wordt getoond."
+          "text": "De scheidsrechter geeft een inworp aan partij B."
         }
       ],
       "correctLetter": "c",
@@ -930,56 +918,56 @@
     },
     {
       "id": 32,
-      "rule": 11,
+      "rule": null,
       "tags": [
-        "buitenspel"
+        "blessure"
       ],
-      "questionText": "Twee tegenstanders trappen tegelijk de bal, waarna deze terechtkomt bij een strafbaar buitenspel zijnde speler van de aanvallende partij. Deze benut zijn kans en schiet de bal in het doel. Wat beslist de scheidsrechter?",
+      "questionText": "Een speler van partij A raakt geblesseerd aan zijn hoofd en maakt een gebaar dat hij veel pijn heeft. De scheidsrechter stopt het spel en loopt naar de geblesseerde speler toe. Wat moet de scheidsrechter doen als de speler aangeeft dat het wel meevalt en geen verzorging nodig is?",
       "options": [
         {
           "letter": "a",
-          "text": "Doelpunt toekennen."
+          "text": "Hij laat het spel gewoon hervatten met een scheidsrechtersbal."
         },
         {
           "letter": "b",
-          "text": "Scheidsrechtersbal."
+          "text": "Hij geeft de speler een gele kaart voor onsportief gedrag."
         },
         {
           "letter": "c",
-          "text": "Hoekschop."
+          "text": "Hij stuurt de speler uit het speelveld, waar deze speler vervolgens een minuut moet wachten totdat hij weer het speelveld mag betreden."
         },
         {
           "letter": "d",
-          "text": "Buitenspel en doelpunt afkeuren."
+          "text": "Hij stuurt de speler uit het speelveld, waar deze speler vervolgens een minuut moet wachten totdat hij weer het speelveld mag betreden en het spel moet onderbroken zijn."
         }
       ],
-      "correctLetter": "d",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 33,
-      "rule": 13,
+      "rule": null,
       "tags": [
-        "vrijeschop"
+        "blessure"
       ],
-      "questionText": "Een veldspeler die een tegenstander duwt, moet alleen worden bestraft met een directe vrije schop c.q. strafschop, indien dit:",
+      "questionText": "Een speler van partij A raakt geblesseerd en krijgt verzorging. Zijn trainer besluit om deze speler onmiddellijk te wisselen. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Onvoorzichtig, onbesuisd of gepaard gaande met buitensporige inzet gebeurt."
+          "text": "Dit staat hij toe."
         },
         {
           "letter": "b",
-          "text": "Naar het oordeel van de scheidsrechter gebeurt."
+          "text": "Dit staat hij toe, maar de speler die erin komt moet een minuut wachten en mag het veld betreden bij de eerstvolgende onderbreking van het spel."
         },
         {
           "letter": "c",
-          "text": "Geen correcte schouderduw is."
+          "text": "Dit staat hij toe, maar de geblesseerde speler moet binnen tien seconden het veld verlaten, anders moet de speler die erin komt een minuut wachten en het veld betreden bij de eerstvolgende onderbreking van het spel."
         },
         {
           "letter": "d",
-          "text": "Met twee handen gebeurt."
+          "text": "Het is niet toegestaan om een speler te wisselen als deze net verzorging heeft gehad."
         }
       ],
       "correctLetter": "a",
@@ -988,57 +976,27 @@
     },
     {
       "id": 34,
-      "rule": 12,
+      "rule": 14,
       "tags": [
-        "binnenbuiten",
-        "gooienvoorwerp"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "De doelverdediger gooit de bal van binnen het eigen strafschopgebied opzettelijk en met kracht tegen een tegenstander aan, die binnen het speelveld, maar buiten het strafschopgebied staat. De scheidsrechter onderbreekt hiervoor het spel. Hoe wordt het spel hervat?",
+      "questionText": "Een speler mag een strafschop nemen. Nadat de speler zijn aanloop heeft afgerond glijdt hij uit met zijn standbeen, waardoor hij de bal eerst raakt met zijn standbeen en onmiddellijk daarna met het been waarmee hij wilde schieten. De bal gaat vervolgens in het doel. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Met een indirecte vrije schop."
+          "text": "Hij geeft een aftrap na geldig doelpunt."
         },
         {
           "letter": "b",
-          "text": "Met een scheidsrechtersbal."
+          "text": "Hij laat de strafschop overnemen."
         },
         {
           "letter": "c",
-          "text": "Met een directe vrije schop."
+          "text": "Hij laat de strafschop overnemen en geeft de nemer een waarschuwing door het tonen van de gele kaart."
         },
         {
           "letter": "d",
-          "text": "Met een strafschop."
-        }
-      ],
-      "correctLetter": "c",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 35,
-      "rule": 12,
-      "tags": [
-        "balbezitdoelverdediger"
-      ],
-      "questionText": "De doelverdediger heeft, op de grond liggend, nog één vinger op de bal. Mag de bal nu worden gespeeld?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Alleen door een tegenstander."
-        },
-        {
-          "letter": "b",
-          "text": "Alleen door een medespeler."
-        },
-        {
-          "letter": "c",
-          "text": "De bal mag niet meer worden gespeeld."
-        },
-        {
-          "letter": "d",
-          "text": "De bal mag door iedereen worden gespeeld."
+          "text": "Hij geeft een indirecte vrije schop aan de tegenpartij."
         }
       ],
       "correctLetter": "b",
@@ -1046,28 +1004,59 @@
       "verified": false
     },
     {
-      "id": 36,
-      "rule": 3,
+      "id": 35,
+      "rule": 14,
       "tags": [
-        "betredenspeelveld"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Een speler wisselt buiten het speelveld van schoeisel. Wanneer en waar mag hij tijdens het spel het speelveld weer betreden?",
+      "questionText": "Een speler mag een strafschop nemen. Nadat de speler zijn aanloop heeft afgerond glijdt hij uit met zijn standbeen, waardoor hij de bal eerst raakt met zijn standbeen en onmiddellijk daarna met het been waarmee hij wilde schieten. De bal gaat vervolgens via de doelverdediger naast het doel. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Nadat hij toestemming heeft gekregen van de scheidsrechter vanaf elke plek op de zijlijn of doellijn."
+          "text": "Hij geeft een hoekschop"
         },
         {
           "letter": "b",
-          "text": "Nadat hij toestemming heeft gekregen van de scheidsrechter alleen ter hoogte van de middenlijn."
+          "text": "Hij laat de strafschop overnemen."
         },
         {
           "letter": "c",
-          "text": "Nadat hij toestemming heeft gekregen van de assistent-scheidsrechter vanaf iedere willekeurige plaats."
+          "text": "Hij laat de strafschop overnemen en geeft de nemer een waarschuwing door het tonen van de gele kaart."
         },
         {
           "letter": "d",
-          "text": "Nooit, omdat het spel moet zijn onderbroken."
+          "text": "Hij geeft een indirecte vrije schop aan de tegenpartij."
+        }
+      ],
+      "correctLetter": "d",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 36,
+      "rule": 12,
+      "tags": [
+        "voorkomenscoringskans",
+        "geelrood",
+        "scheidsrechter"
+      ],
+      "questionText": "Een verdediger brengt buiten het strafschopgebied een aanvaller ten val en ontneemt hem daardoor een duidelijke scoringskans. De scheidsrechter past echter de voordeelregel toe, omdat de bal bij een medespeler komt die in een uitstekende positie komt om te scoren. Deze speler schiet de bal in het doel. Wat beslist de scheidsrechter nu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Aftrap na geldig doelpunt."
+        },
+        {
+          "letter": "b",
+          "text": "Aftrap na geldig doelpunt, hij toont de verdediger de gele kaart."
+        },
+        {
+          "letter": "c",
+          "text": "Aftrap na geldig doelpunt, hij toont de verdediger de rode kaart."
+        },
+        {
+          "letter": "d",
+          "text": "Hij mag geen voordeel geven en toon de verdediger de rode kaart."
         }
       ],
       "correctLetter": "a",
@@ -1078,84 +1067,83 @@
       "id": 37,
       "rule": 3,
       "tags": [
-        "wisselspeler",
-        "onbehoorlijkgedrag"
+        "wisselprocedure"
       ],
-      "questionText": "Een speler loopt kwaad het veld af, zonder zich af te melden. De trainer wil nu een vervanger inzetten. De scheidsrechter weigert dit, ondanks dat het elftal nog een wisselmogelijkheid heeft. Handelt de scheidsrechter juist?",
+      "questionText": "De trainer van partij A besluit een speler te wisselen. De vierde official geeft met het wisselbord aan dat nummer 4 wordt gewisseld. Deze speler is het er niet mee eens en verlaat het speelveld pas na twintig seconden. De trainer besluit daarna direct nog een wissel toe te passen in hetzelfde wisselmoment. De vierde official staat dit toe en deze wissel wordt normaal uitgevoerd en de gewisselde speler (nummer 8) is op tijd buiten het speelveld. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "De scheidsrechter handelde alleen juist, indien deze speler in deze wedstrijd al een gele kaart had ontvangen."
+          "text": "De scheidsrechter laat gewoon hervatten. De tijd gaat pas in nadat het bord omhoog is gegaan voor de laatste wissel tijdens een wisselmoment."
         },
         {
           "letter": "b",
-          "text": "De scheidsrechter handelde juist, omdat betrokken speler zich niet had afgemeld."
+          "text": "De speler die in het veld zou komen voor de nummer 4 moet een minuut wachten langs de zijlijn en mag dan tijdens het spel in het veld komen op een teken van de scheidsrechter."
         },
         {
           "letter": "c",
-          "text": "De scheidsrechter handelde juist, omdat bij kwaad weglopen geen vervanging is toegestaan."
+          "text": "De speler die in het veld zou komen voor de nummer 4 moet een minuut wachten langs de zijlijn tot de eerstvolgende onderbreking en mag in het veld komen na een teken van de scheidsrechter."
         },
         {
           "letter": "d",
-          "text": "De scheidsrechter handelde volledig juist."
+          "text": "De scheidsrechter laat gewoon hervatten en toont de nummer 4 een gele kaart wegens onsportief gedrag."
         }
       ],
-      "correctLetter": "a",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 38,
-      "rule": 11,
+      "rule": 15,
       "tags": [
-        "buitenspel"
+        "inworp"
       ],
-      "questionText": "Speler A schiet op het doel van de tegenpartij. Op dat moment staat een medespeler van hem buitenspel, maar volgens de scheidsrechter niet strafbaar. Hij laat dan ook doorspelen. De ingeschoten bal wordt echter tegen de doelpaal geschoten en stuit voor de voeten van deze buitenspel staande medespeler, die vervolgens scoort. Wat beslist de scheidsrechter?",
+      "questionText": "Een speler mag ingooien. Dit wil hij perse doen met de bal die net uit ging en niet met de dichtstbijzijnde bal op een pion. Daarna pakt hij een handdoek om de bal schoon te maken. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij geeft een indirecte vrije schop wegens buitenspel op de plaats waar de medespeler de bal ontving."
+          "text": "Hij gebaart de speler om op te schieten."
         },
         {
           "letter": "b",
-          "text": "Hij keurt het doelpunt goed en laat hervatten met een aftrap na geldig doelpunt."
+          "text": "Hij geeft de speler een gele kaart en dezelfde ploeg mag inwerpen."
         },
         {
           "letter": "c",
-          "text": "Hij geeft een indirecte vrije schop wegens buitenspel op de plaats waar de buitenspel staande speler de bal in het doel schoot."
+          "text": "Hij fluit en telt af van vijf naar nul."
         },
         {
           "letter": "d",
-          "text": "Hij keurt het doelpunt af en laat hervatten met een doelschop."
+          "text": "Hij geeft de inworp aan de tegenpartij."
         }
       ],
-      "correctLetter": "a",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
     {
       "id": 39,
-      "rule": 12,
+      "rule": 16,
       "tags": [
-        "onbehoorlijkgedrag"
+        "doelschop"
       ],
-      "questionText": "Een veldspeler die een tegenstander vasthoudt, moet alleen worden bestraft met een directe vrije schop c.q. strafschop, indien dit:",
+      "questionText": "De doelverdediger mag een doelschop nemen. Dit duurt vrij lang en de scheidsrechter is gaan tellen. Als de scheidsrechter bij 2 is, dan rolt de doelverdediger met zijn handen de bal naar een medespeler. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Onvoorzichtig, onbesuisd of gepaard gaande met buitensporige inzet gebeurt."
+          "text": "Hij telt opnieuw af van vijf naar nul zodra de bal goed ligt."
         },
         {
           "letter": "b",
-          "text": "Naar het oordeel van de scheidsrechter gebeurt."
+          "text": "Hij telt gewoon door en als de doelschop bij nul nog niet is genomen, dan geeft hij een hoekschop aan de tegenpartij."
         },
         {
           "letter": "c",
-          "text": "Altijd gebeurt."
+          "text": "Hij toont de doelverdediger de gele kaart wegens onsportief gedrag."
         },
         {
           "letter": "d",
-          "text": "Met twee handen gebeurt."
+          "text": "Hij telt opnieuw af van vijf naar nul zodra de medespeler de bal vast heeft."
         }
       ],
       "correctLetter": "b",
@@ -1164,85 +1152,27 @@
     },
     {
       "id": 40,
-      "rule": null,
+      "rule": 12,
       "tags": [
-        "baluitspel"
+        "voorkomenscoringskans"
       ],
-      "questionText": "Als tijdens het spel de bal tegen de assistent-scheidsrechter wordt geschoten en via hem uit het speelveld gaat, maar niet in het doel, kan het spel op verschillende manieren hervat worden. Welke van de onderstaande mogelijkheden is niet juist?",
+      "questionText": "Een aanvaller in duidelijke scoringspositie wordt net buiten het strafschopgebied door een verdediger vastgehouden. De scheidsrechter past de voordeelregel toe, waarna dezelfde aanvaller direct doorgaat richting het doel en scoort. Wat moet de scheidsrechter nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Doelschop."
+          "text": "Hij kent het doelpunt toe en toont de verdediger een gele kaart."
         },
         {
           "letter": "b",
-          "text": "Scheidsrechtersbal."
+          "text": "Hij kent het doelpunt toe en toont de verdediger een rode kaart."
         },
         {
           "letter": "c",
-          "text": "Inworp."
+          "text": "Hij kent het doelpunt toe."
         },
         {
           "letter": "d",
-          "text": "Hoekschop."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 41,
-      "rule": 3,
-      "tags": [
-        "betredenspeelveld"
-      ],
-      "questionText": "Een aanvaller heeft zich naast het doel buiten het speelveld begeven om zich zodoende aan buitenspel te onttrekken. Op het moment dat de doelverdediger de bal heeft opgevangen, komt deze speler weer het speelveld inlopen om te voorkomen dat de doelverdediger de bal uit zijn handen in het spel kan brengen. De scheidsrechter moet nu:",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Door laten spelen."
-        },
-        {
-          "letter": "b",
-          "text": "De aanvaller een waarschuwing geven voor het zonder toestemming betreden van het speelveld en bestraffen met een directe vrije schop op de plaats waar hij ingreep in het spel."
-        },
-        {
-          "letter": "c",
-          "text": "Een indirecte vrije schop toekennen aan de verdedigende partij en de aanvaller een waarschuwing geven."
-        },
-        {
-          "letter": "d",
-          "text": "De aanvaller alsnog bestraffen met een indirecte vrije schop wegens buitenspel."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 42,
-      "rule": 7,
-      "tags": [
-        "duurwedstrijd"
-      ],
-      "questionText": "De scheidsrechter heeft vlak voor het verstrijken van de speeltijd een vrije schop toegekend aan de aanvallende partij, net buiten het strafschopgebied van de verdedigende partij. Voordat de vrije schop zal worden genomen, ziet de scheidsrechter dat de speeltijd is verstreken. Hij zal nu:",
-      "options": [
-        {
-          "letter": "a",
-          "text": "De wedstrijd verlengen met 2 minuten."
-        },
-        {
-          "letter": "b",
-          "text": "Eerst de vrije schop laten nemen en dan direct affluiten."
-        },
-        {
-          "letter": "c",
-          "text": "De wedstrijd als beëindigd beschouwen."
-        },
-        {
-          "letter": "d",
-          "text": "Eerst de vrije schop laten nemen, de uitwerking afwachten en daarna affluiten."
+          "text": "Hij keurt het doelpunt af en hervat met een directe vrije schop."
         }
       ],
       "correctLetter": "c",
@@ -1250,28 +1180,86 @@
       "verified": false
     },
     {
-      "id": 43,
-      "rule": 12,
+      "id": 41,
+      "rule": 14,
       "tags": [
-        "(in)direct"
+        "uitvoeringstrafschop"
       ],
-      "questionText": "Een indirecte vrije schop moet worden toegekend wegens:",
+      "questionText": "Bij het nemen van een strafschop speelt de nemer de bal eerst een klein stukje vooruit en schiet hem daarna in het doel. De scheidsrechter keurt het doelpunt af wegens het twee keer raken van de bal. Hoe moet hij vervolgens handelen?",
       "options": [
         {
           "letter": "a",
-          "text": "Een wisselspeler gooit een bidon het speelveld in."
+          "text": "Hij kent een indirecte vrije schop toe aan de verdedigende partij."
         },
         {
           "letter": "b",
-          "text": "Spuwen van een tegenstander."
+          "text": "Hij kent een indirecte vrije schop toe aan de verdedigende partij en toont de nemer een gele kaart."
         },
         {
           "letter": "c",
-          "text": "Vasthouden van een tegenstander."
+          "text": "Hij laat de strafschop overnemen."
         },
         {
           "letter": "d",
-          "text": "Beledigen van een tegenstander."
+          "text": "Hij toont de nemer een gele kaart en laat de strafschop overnemen."
+        }
+      ],
+      "correctLetter": "a",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 42,
+      "rule": 15,
+      "tags": [
+        "inworp"
+      ],
+      "questionText": "Partij A raakt de bal als laatst, waarna die over de zijlijn gaat. Zeven seconden nadat de bal over de zijlijn is gegaan, heeft partij B nog altijd niet ingegooid. Daarop kent de scheidsrechter, die in de tussentijd niets heeft aangegeven, de inworp toe aan de tegenpartij. Handelt hij hier juist?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, de inworp dient binnen vijf seconden genomen te zijn. De inworp gaat naar de tegenpartij als dit niet gebeurt."
+        },
+        {
+          "letter": "b",
+          "text": "Nee, als de scheidsrechter van mening is dat een speler de inworp op onsportieve wijze vertraagt, dient hij dit aan te geven met een fluitsignaal en vervolgens zichtbaar vijf seconden af te tellen. Pas daarna kan hij de inworp aan de andere partij toekennen."
+        },
+        {
+          "letter": "c",
+          "text": "Nee, als de scheidsrechter van mening is dat een speler de inworp op onsportieve wijze vertraagt, dient hij hem een gele kaart te tonen. De inworp blijft voor dezelfde partij."
+        },
+        {
+          "letter": "d",
+          "text": "Nee, de spelregels schrijven voor dat de inworp binnen acht seconden genomen dient te worden. Deze speler was dus op tijd met de inworp."
+        }
+      ],
+      "correctLetter": "b",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 43,
+      "rule": 12,
+      "tags": [
+        "voorkomenscoringskans"
+      ],
+      "questionText": "Welk criterium wordt niet genoemd in de spelregels bij het bepalen of sprake is van een duidelijke scoringskans?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "De afstand tussen de overtreding en het doel."
+        },
+        {
+          "letter": "b",
+          "text": "De plaats en het aantal verdedigers en aanvallers."
+        },
+        {
+          "letter": "c",
+          "text": "De algemene richting van het spel."
+        },
+        {
+          "letter": "d",
+          "text": "De snelheid van de aanvallers en verdedigers."
         }
       ],
       "correctLetter": "d",
@@ -1282,54 +1270,25 @@
       "id": 44,
       "rule": 3,
       "tags": [
-        "wisselspeler"
+        "wisselprocedure"
       ],
-      "questionText": "De scheidsrechter heeft het spel onderbroken vanwege een inworp. Tijdens dit “dode” moment loopt een wisselspeler het speelveld in en beledigt de scheidsrechter. Welke maatregel(en) neemt de scheidsrechter tegen deze wisselspeler en hoe hervat hij het spel?",
+      "questionText": "Wat is niet waar met betrekking tot de wisselprocedure als sprake is van een enkelvoudige wissel?",
       "options": [
         {
           "letter": "a",
-          "text": "De wisselspeler wordt naar de bank verwezen, omdat hij niet aan het spel deelnam en het spel wordt hervat met een inworp."
+          "text": "De speler die wordt gewisseld moet tien seconden na het tonen van het wisselbord het speelveld hebben verlaten."
         },
         {
           "letter": "b",
-          "text": "De wisselspeler wordt van het veld verwijderd. Hij mag niet meer gewisseld worden. Het spel wordt hervat met een inworp."
+          "text": "Als de speler die wordt gewisseld niet binnen tien seconden na het tonen van het wisselbord het speelveld heeft verlaten, moet de speler die voor hem in de plaats komt een minuut buiten het speelveld blijven. Hij mag na die minuut het speelveld pas betreden, zodra het spel is onderbroken en hij toestemming krijgt van de scheidsrechter."
         },
         {
           "letter": "c",
-          "text": "De wisselspeler wordt naar de bank verwezen en het spel wordt hervat met een indirecte vrije schop."
+          "text": "Als de speler die wordt gewisseld niet binnen tien seconden na het tonen van het wisselbord het speelveld heeft verlaten, gaat de wissel niet door en wordt het spel hervat."
         },
         {
           "letter": "d",
-          "text": "De wisselspeler wordt van het veld verwijderd. Hij mag niet meer gewisseld worden. Het spel wordt hervat met een indirecte vrije schop."
-        }
-      ],
-      "correctLetter": "b",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 45,
-      "rule": 3,
-      "tags": [
-        "spelers"
-      ],
-      "questionText": "Tijdens een oponthoud meldt een te laat komende speler zich volgens de regels bij de scheidsrechter. Beiden staan dan binnen het speelveld. De scheidsrechter controleert het schoeisel van de betreffende speler en geeft hem op grond daarvan geen toestemming mee te doen. Daarop beledigt de speler de scheidsrechter. Wat beslist de scheidsrechter?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Hij zendt de speler van het speelveld, maar laat een invaller toe, omdat het spel “dood” was, toen de scheidsrechter beledigd werd."
-        },
-        {
-          "letter": "b",
-          "text": "Hij zendt de speler van het speelveld, maar laat een invaller toe, omdat de speler nog niet meegespeeld had, toen hij de scheidsrechter beledigde."
-        },
-        {
-          "letter": "c",
-          "text": "Hij zendt de speler van het speelveld, maar laat geen invaller toe, omdat de te laat komende speler geacht wordt deel uit te maken van zijn ploeg."
-        },
-        {
-          "letter": "d",
-          "text": "Hij zendt de speler van het speelveld, maar laat geen invaller toe, omdat dat nooit kan als iemand de scheidsrechter beledigt."
+          "text": "De speler die wordt gewisseld hoeft het speelveld niet binnen tien seconden te verlaten als de scheidsrechter van mening is dat het omwille van de veiligheid niet wenselijk is het veld via de dichtstbijzijnde doel- of zijlijn te verlaten."
         }
       ],
       "correctLetter": "c",
@@ -1337,28 +1296,58 @@
       "verified": false
     },
     {
-      "id": 46,
-      "rule": 15,
+      "id": 45,
+      "rule": 12,
       "tags": [
-        "inworp"
+        "voorkomenscoringskans",
+        "terugspeelbal"
       ],
-      "questionText": "Een inwerpende speler laat de bal per ongeluk vallen. De scheidsrechter ziet dit. De bal komt bij een tegenstander terecht. Hoe reageert de scheidsrechter?",
+      "questionText": "Een verdediger speelt de bal terug op zijn eigen doelverdediger. De verdediger heeft daarbij een aanvaller over het hoofd gezien, die de bal dreigt te onderscheppen. Net voordat de aanvaller de bal in zijn bezit krijgt, neemt de doelverdediger de bal binnen zijn eigen strafschopgebied in zijn handen en voorkomt zo dat de aanvaller weet te scoren. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
-          "text": "Hij laat doorspelen, omdat hij de voordeelregel toepast."
+          "text": "Hij kent een indirecte vrije schop toe aan de aanvallende partij."
         },
         {
           "letter": "b",
-          "text": "Hij onderbreekt het spel en laat de tegenpartij inwerpen."
+          "text": "Hij kent een indirecte vrije schop toe aan de aanvallende partij en toont de doelverdediger een gele kaart."
         },
         {
           "letter": "c",
-          "text": "Hij onderbreekt het spel en laat dezelfde partij opnieuw inwerpen."
+          "text": "Hij kent een indirecte vrije schop toe aan de aanvallende partij en toont de doelverdediger een rode kaart."
         },
         {
           "letter": "d",
-          "text": "Hij onderbreekt het spel en hervat het spel met een scheidsrechtersbal."
+          "text": "Hij kent een strafschop toe aan de aanvallende partij en toont de doelverdediger een rode kaart."
+        }
+      ],
+      "correctLetter": "a",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 46,
+      "rule": 4,
+      "tags": [
+        "uitrusting"
+      ],
+      "questionText": "Bij de kledingcontrole voorafgaand aan de wedstrijd constateert de scheidsrechter dat een speler aan zijn pols een armband draagt. Over de armband heeft de speler een stuk tape aangebracht. De armband levert op deze manier geen gevaar op. Is dit toegestaan?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nee, niets wat niet bij de standaarduitrusting van een speler hoort, is toegestaan."
+        },
+        {
+          "letter": "b",
+          "text": "Dit is naar het oordeel van de scheidsrechter, over armbanden is in de spelregels niets vastgelegd."
+        },
+        {
+          "letter": "c",
+          "text": "Ja, accessoires zijn toegestaan zolang ze niet gevaarlijk zijn en veilig en stevig zijn bedekt."
+        },
+        {
+          "letter": "d",
+          "text": "Ja, accessoires zijn toegestaan zolang ze geen politieke, religieuze, persoonlijke slogans, uitingen of afbeeldingen bevatten."
         }
       ],
       "correctLetter": "c",
@@ -1367,27 +1356,85 @@
     },
     {
       "id": 47,
-      "rule": 12,
+      "rule": 10,
       "tags": [
-        "toeschouwer"
+        "strafschoppenserie"
       ],
-      "questionText": "Tijdens de wedstrijd ontstaat ineens verwarring omdat een toeschouwer op een fluitje blaast. Wat beslist de scheidsrechter als een speler nabij de zijlijn de bal in zijn handen heeft genomen omdat hij van mening was dat de scheidsrechter had gefloten?",
+      "questionText": "Omdat de stand na de verlenging nog altijd gelijk is, moeten strafschoppen worden genomen. Voorafgaand aan de strafschoppenserie wordt normaal gesproken door middel van een toss door de scheidsrechter bepaald op welk doel de strafschoppen worden genomen. Wanneer mag daarvan worden afgeweken?",
       "options": [
         {
           "letter": "a",
-          "text": "De scheidsrechter onderbreekt het spel en hervat het spel met een indirecte vrije schop op de plaats van de overtreding."
+          "text": "Als achter één van beide doelen duidelijk meer publiek zit dan achter het andere."
         },
         {
           "letter": "b",
-          "text": "De scheidsrechter onderbreekt het spel en hervat het spel met een directe vrije schop op de plaats van de overtreding."
+          "text": "Als de veiligheidssituatie daar aanleiding toe geeft."
         },
         {
           "letter": "c",
-          "text": "De scheidsrechter onderbreekt het spel en hervat het spel met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Als beide aanvoerders overeenstemming hebben bereikt over het doel."
         },
         {
           "letter": "d",
-          "text": "De scheidsrechter onderbreekt het spel en hervat het spel met een directe vrije schop op de plaats van de overtreding. De speler die de bal in zijn handen pakte ontvangt de gele kaart."
+          "text": "Als beide aanvoerders overeenstemming hebben bereikt over het doel, mits de toestand van het veld dat ook toestaat."
+        }
+      ],
+      "correctLetter": "b",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 48,
+      "rule": 12,
+      "tags": [
+        "voorkomenscoringskans"
+      ],
+      "questionText": "De doelverdediger van partij A neemt een doelschop. Hij raakt daarbij de bal totaal verkeerd, waardoor die bij een snel toegesnelde aanvaller van partij B dreigt te komen. De doelverdediger pakt de bal daarom snel in zijn handen, net voordat de aanvaller op doel kan schieten. Wat moet de scheidsrechter beslissen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Hij kent een indirecte vrije schop toe tegen de doelverdediger."
+        },
+        {
+          "letter": "b",
+          "text": "Hij kent een indirecte vrije schop toe tegen de doelverdediger en toont de doelverdediger een rode kaart wegens het ontnemen van een duidelijke scoringskans."
+        },
+        {
+          "letter": "c",
+          "text": "Hij kent een strafschop toe tegen de doelverdediger."
+        },
+        {
+          "letter": "d",
+          "text": "Hij kent een strafschop toe tegen de doelverdediger en toont de doelverdediger een rode kaart wegens het ontnemen van een duidelijke scoringskans"
+        }
+      ],
+      "correctLetter": "b",
+      "confidence": "high",
+      "verified": false
+    },
+    {
+      "id": 49,
+      "rule": 3,
+      "tags": [
+        "wisselprocedure"
+      ],
+      "questionText": "Een speler die wordt gewisseld moet tien seconden na het tonen van het wisselbord het speelveld hebben verlaten. Als hij dat niet doet, moet de speler die voor hem in de plaats komt een minuut buiten het speelveld blijven. Moet de uitgewisselde speler ook een disciplinaire straf krijgen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nee, omdat de speler die voor hem in de ploeg komt een minuut buiten het speelveld moet blijven, is hij voldoende gestraft."
+        },
+        {
+          "letter": "b",
+          "text": "Ja, de scheidsrechter moet deze speler een gele kaart tonen."
+        },
+        {
+          "letter": "c",
+          "text": "Alleen als deze speler de hervatting bovenmatig langer dan tien seconden vertraagt."
+        },
+        {
+          "letter": "d",
+          "text": "Nee, de wissel is definitief zodra het wisselbord omhoog is gegaan, deze speler kan dus niet meer disciplinair worden gestraft."
         }
       ],
       "correctLetter": "c",
@@ -1395,87 +1442,31 @@
       "verified": false
     },
     {
-      "id": 48,
-      "rule": null,
-      "tags": [
-        "handboek"
-      ],
-      "questionText": "De scheidsrechter moet een wedstrijd tijdelijk onderbreken, als de tijd die verloopt tussen het zien van een bliksemflits en de daaropvolgende donderslag minder is dan:",
-      "options": [
-        {
-          "letter": "a",
-          "text": "20 seconden."
-        },
-        {
-          "letter": "b",
-          "text": "15 seconden."
-        },
-        {
-          "letter": "c",
-          "text": "12 seconden."
-        },
-        {
-          "letter": "d",
-          "text": "10 seconden."
-        }
-      ],
-      "correctLetter": "d",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 49,
+      "id": 50,
       "rule": 12,
       "tags": [
-        "klemmen"
+        "binnenbuiten",
+        "onbehoorlijkgedrag",
+        "hervatting",
+        "gooienvoorwerp"
       ],
-      "questionText": "Met de bal tussen de benen geklemd slaagt een aanvaller er al huppend in het doelvlak van de tegenpartij volledig te passeren. Wat beslist de scheidsrechter?",
+      "questionText": "In een wedstrijd in het Nederlandse betaalde voetbal lopen drie wisselspelers warm langs de zijlijn achter de assistent-scheidsrechter. In het voorbijgaan ziet de assistent-scheidsrechter dat één van die wisselspelers van buiten het speelveld naar een tegenstander spuwt die binnen het speelveld loopt. De assistent-scheidsrechter steekt de vlag in de lucht en via de headset vertelt de assistent-scheidsrechter aan de scheidsrechter wat er is gebeurd. De bal is in de middencirkel en de scheidsrechter fluit af. Wat moet hij nu beslissen?",
       "options": [
         {
           "letter": "a",
-          "text": "Een indirecte vrije schop tegen de aanvaller. Men mag niet met twee benen aanvallen."
+          "text": "Hij stuurt de wisselspeler van het speelveld zonder daarbij de rode kaart te tonen en laat het spel hervatten met een directe vrije schop voor de tegenpartij op de plaats waar de speler geraakt werd of geraakt zou worden."
         },
         {
           "letter": "b",
-          "text": "Een indirecte vrije schop tegen de aanvaller en een waarschuwing door het tonen van de gele kaart."
+          "text": "Hij stuurt de wisselspeler van het speelveld zonder daarbij de rode kaart te tonen en hervat het spel met een scheidsrechtersbal op de plaats waar de bal het laatst geraakt werd."
         },
         {
           "letter": "c",
-          "text": "Een indirecte vrije schop tegen de aanvaller, omdat deze speelwijze gevaarlijk spel uitlokt."
+          "text": "Hij stuurt de wisselspeler van het speelveld door het tonen van de rode kaart en laat het spel hervatten met een directe vrije schop voor de tegenpartij op de plaats waar de speler geraakt werd of geraakt zou worden."
         },
         {
           "letter": "d",
-          "text": "Een aftrap na geldig doelpunt."
-        }
-      ],
-      "correctLetter": "d",
-      "confidence": "high",
-      "verified": false
-    },
-    {
-      "id": 50,
-      "rule": 3,
-      "tags": [
-        "betredenspeelveld",
-        "wisselspeler"
-      ],
-      "questionText": "Een wisselspeler loopt van de spelersbank het speelveld in. In zijn eigen strafschopgebied trapt hij een tegenstander. De scheidsrechter heeft het trappen van de twaalfde speler zien gebeuren. Hoe reageert hij?",
-      "options": [
-        {
-          "letter": "a",
-          "text": "Hij onderbreekt het spel, zendt de wisselspeler van het speelveld en hervat met een scheidsrechtersbal."
-        },
-        {
-          "letter": "b",
-          "text": "Hij onderbreekt het spel, zendt de wisselspeler van het speelveld en hervat met een indirecte vrije schop."
-        },
-        {
-          "letter": "c",
-          "text": "Hij onderbreekt het spel, zendt de wisselspeler van het speelveld en hervat met een strafschop."
-        },
-        {
-          "letter": "d",
-          "text": "Hij onderbreekt het spel, geeft de wisselspeler een waarschuwing en hervat met een scheidsrechtersbal."
+          "text": "Hij stuurt de wisselspeler van het speelveld door het tonen van de rode kaart en hervat het spel met een scheidsrechtersbal op de plaats waar de bal het laatst geraakt werd."
         }
       ],
       "correctLetter": "c",
@@ -1547,7 +1538,7 @@
       "tags": [
         "buitenspel"
       ],
-      "questionText": "Een speler staat buitenspel wanneer hij dichter bij de doellijn van de tegenpartij is dan:",
+      "questionText": "Een speler staat in buitenspelpositie wanneer hij dichter bij de doellijn van de tegenpartij is als:",
       "options": [
         {
           "letter": "a",
@@ -1563,7 +1554,7 @@
         },
         {
           "letter": "d",
-          "text": "Dat hij niet minimaal twee tegenstanders voor zich heeft op het moment dat hij de bal ontvangt."
+          "text": "Hij niet minimaal twee tegenstanders voor zich heeft op het moment dat hij de bal ontvangt."
         }
       ],
       "correctLetter": "a",
@@ -1693,7 +1684,7 @@
         "spelers",
         "extrawissel"
       ],
-      "questionText": "Tijdens een wedstrijd in het betaalde voetbal wordt een speler slechts licht geraakt aan zijn hoofd en buiten het veld behandeld, na enige tijd keert deze speler weer terug in het veld. Na 10 minuten geeft deze speler aan gewisseld te willen worden, waarna zijn team een extra wissel claimt in verband met het vermoeden van een hersenschudding. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Tijdens een wedstrijd in het Nederlandse betaalde voetbal wordt een speler slechts licht geraakt aan zijn hoofd en buiten het veld behandeld, na enige tijd keert deze speler weer terug in het veld. Na 10 minuten geeft deze speler aan gewisseld te willen worden, waarna zijn team een extra wissel claimt in verband met het vermoeden van een hersenschudding. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
@@ -1752,7 +1743,7 @@
       "tags": [
         "toeschouwer"
       ],
-      "questionText": "Een toeschouwer probeert binnen het doelgebied de bal tegen te houden, die in het doel dreigt te gaan. Hij raakt de bal, maar deze verdwijnt toch in het doel. Wat is de spelhervatting?",
+      "questionText": "Een toeschouwer probeert binnen het doelgebied de bal tegen te houden, die in het doel dreigt te gaan. Hij raakt de bal, maar deze verdwijnt toch in het doel en de toeschouwer hindert geen verdediger. Wat is de spelhervatting?",
       "options": [
         {
           "letter": "a",
@@ -2070,6 +2061,7 @@
       "id": 71,
       "rule": 12,
       "tags": [
+        "onbehoorlijkgedrag",
         "gooienvoorwerp"
       ],
       "questionText": "Tijdens het spel ziet de scheidsrechter dat een wisselspeler vanuit de dug-out spuwt naar de vierde official. Wat moet de scheidsrechter beslissen nadat hij hiervoor het spel heeft onderbroken?",
@@ -2363,15 +2355,15 @@
       "tags": [
         "extrawissel"
       ],
-      "questionText": "Tijdens een wedstrijd in het betaalde voetbal raakt een speler gewond aan zijn hoofd, waarop zijn coach gebruik wil maken van een extra wissel in verband met een hersenschudding. Beide teams willen van dat moment gebruik maken om per team 2 spelers te wisselen. Mag dat?",
+      "questionText": "Tijdens een wedstrijd in het Nederlandse betaalde voetbal raakt een speler gewond aan zijn hoofd, waarop zijn coach gebruik wil maken van een extra wissel in verband met een hersenschudding. Beide teams willen van dat moment gebruik maken om per team 2 spelers te wisselen. Mag dat?",
       "options": [
         {
           "letter": "a",
-          "text": "Ja, dat mag, maar beide teams gebruiken dan wel een normaal wisselmoment en 1 normale wissel."
+          "text": "Ja, dat mag, maar beide teams gebruiken dan ook een normaal wisselmoment en 1 normale wissel."
         },
         {
           "letter": "b",
-          "text": "Ja, dat mag, beide teams krijgen een extra wisselmoment, waarin ze in deze situatie een extra wissel mogen uitvoeren en een normale wissel, die alleen wel telt voor het gebruikte aantal wissels."
+          "text": "Ja, dat mag, beide teams krijgen een extra wisselmoment, waarin ze in deze situatie een extra wissel mogen uitvoeren en een normale wissel."
         },
         {
           "letter": "c",
@@ -2537,7 +2529,7 @@
       "tags": [
         "duurwedstrijd"
       ],
-      "questionText": "De scheidsrechter constateert dat de speeltijd is verstreken. Voordat hij kans ziet om het eindsignaal te geven, ziet hij dat een verdediger binnen zijn eigen strafschopgebied een aanvaller slaat. Wat zal de scheidsrechter nu doen?",
+      "questionText": "De scheidsrechter constateert dat de speeltijd is verstreken. Voordat hij het eindsignaal kan geven, ziet hij dat een verdediger binnen zijn eigen strafschopgebied een aanvaller slaat. Wat zal de scheidsrechter nu doen?",
       "options": [
         {
           "letter": "a",
@@ -2578,7 +2570,7 @@
         },
         {
           "letter": "c",
-          "text": "Dit is het strafbaar spelen van de bal met de hand/arm, doch er moet een indirecte vrije schop worden toegekend."
+          "text": "Dit is het strafbaar spelen van de bal met de hand/arm, toch moet er een indirecte vrije schop worden toegekend."
         },
         {
           "letter": "d",
@@ -2711,7 +2703,7 @@
       "tags": [
         "(in)direct"
       ],
-      "questionText": "Tijdens een beslissingswedstrijd kent de scheidsrechter een vrije schop toe aan de aanvallende partij, op zestien meter van het doel van de tegenpartij. De aanvaller die de schop neemt schiet de bal rechtstreeks naar het doel van de tegenpartij. Een op de doellijn staande verdediger, niet zijnde de doelverdediger, stompt de bal met de vuist over het doel, voordat de bal de doellijn had gepasseerd. Wat zal de scheidsrechter nu moeten beslissen?",
+      "questionText": "Tijdens een beslissingswedstrijd kent de scheidsrechter een vrije schop toe aan de aanvallende partij, net binnen het strafschopgebied van de tegenpartij. De aanvaller die de schop neemt schiet de bal rechtstreeks naar het doel van de tegenpartij. Een op de doellijn staande verdediger, niet zijnde de doelverdediger, stompt de bal met de vuist over het doel, voordat de bal de doellijn had gepasseerd. Wat zal de scheidsrechter nu moeten beslissen?",
       "options": [
         {
           "letter": "a",
@@ -2923,7 +2915,7 @@
         },
         {
           "letter": "b",
-          "text": "De strafschop laten overnemen en de te vroeg toegelopen speler waarschuwen door het tonen van de gele kaart wegens onsportief gedrag."
+          "text": "De strafschop laten overnemen en de te vroeg toegelopen speler vermanen."
         },
         {
           "letter": "c",
@@ -2940,8 +2932,9 @@
     },
     {
       "id": 101,
-      "rule": null,
+      "rule": 16,
       "tags": [
+        "doelschop",
         "hervatting"
       ],
       "questionText": "Bij een doelschop wordt de bal doelbewust door een verdediger naar zijn doelverdediger geschoten, die zich buiten het strafschopgebied bevindt. Deze dribbelt met de bal het strafschopgebied binnen en neemt vervolgens de bal in zijn handen en trapt deze ver naar voren. Wat zal de scheidsrechter beslissen?",
@@ -3048,7 +3041,7 @@
         },
         {
           "letter": "d",
-          "text": "Zodra alle spelers staan opgesteld."
+          "text": "Zodra de scheidsrechter het speelveld betreedt om de wedstrijd te beginnen."
         }
       ],
       "correctLetter": "a",
@@ -3094,11 +3087,11 @@
       "options": [
         {
           "letter": "a",
-          "text": "De aanvaller wegzenden en een indirecte vrije schop voor de verdedigende partij op elke willekeurige plaats in het doelgebied."
+          "text": "De aanvaller wegzenden en een indirecte vrije schop voor de verdedigende partij op een willekeurige plaats in het doelgebied."
         },
         {
           "letter": "b",
-          "text": "De aanvaller wegzenden en een directe vrije schop voor de verdedigende partij op elke willekeurige plaats in het doelgebied."
+          "text": "De aanvaller wegzenden en een directe vrije schop voor de verdedigende partij op een willekeurige plaats in het doelgebied."
         },
         {
           "letter": "c",
@@ -3579,7 +3572,7 @@
           "text": "Scheidsrechtersbal voor de doelverdediger."
         }
       ],
-      "correctLetter": "b",
+      "correctLetter": "d",
       "confidence": "high",
       "verified": false
     },
@@ -3597,15 +3590,15 @@
         },
         {
           "letter": "b",
-          "text": "Vanaf elk willekeurig gelegen punt binnen het doelgebied of vanaf de lijn van het doelgebied, die evenwijdig loopt aan de doellijn, vanaf een plek zo dicht mogelijk bij de plaats van de overtreding."
+          "text": "Vanaf een willekeurig gelegen punt binnen het doelgebied of vanaf de lijn van het doelgebied, die evenwijdig loopt aan de doellijn, vanaf een plek zo dicht mogelijk bij de plaats van de overtreding."
         },
         {
           "letter": "c",
-          "text": "Vanaf elk willekeurig punt binnen die helft van het doelgebied, waarin de overtreding is begaan of vanaf de strafschopstip."
+          "text": "Vanaf een willekeurig punt binnen die helft van het doelgebied, waarin de overtreding is begaan of vanaf de strafschopstip."
         },
         {
           "letter": "d",
-          "text": "Vanaf elk willekeurig gelegen punt binnen het doelgebied of vanaf de strafschopstip."
+          "text": "Vanaf een willekeurig gelegen punt binnen het doelgebied of vanaf de strafschopstip."
         }
       ],
       "correctLetter": "d",
@@ -3764,7 +3757,7 @@
       "tags": [
         "truc"
       ],
-      "questionText": "Wat zal de scheidsrechter moeten beslissen indien een speler doelbewust een truc gebruikt om de regel te omzeilen terwijl hij een vrije schop neemt?",
+      "questionText": "Wat zal de scheidsrechter moeten beslissen indien een speler bij het nemen van een vrije schop de bal opwipt om de terugspeelregel te omzeilen?",
       "options": [
         {
           "letter": "a",
@@ -3793,7 +3786,7 @@
       "tags": [
         "hands"
       ],
-      "questionText": "Een aanvaller komt in balbezit nadat hij de bal onopzettelijk met de hand speelt, zonder daarbij een onnatuurlijke houding of beweging te maken en creëert daarmee een scoringskans. Hij dribbelt met de bal het strafschopgebied in, speelt de bal naar een medespeler die vervolgens scoort. Wat beslist de scheidsrechter?",
+      "questionText": "Een aanvaller komt in balbezit nadat hij de bal onopzettelijk met de hand speelt, zonder dat hij zijn lichaam daarbij onnatuurlijk groter maakt en creëert daarmee een scoringskans. Hij dribbelt met de bal het strafschopgebied in, speelt de bal naar een medespeler die vervolgens scoort. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
@@ -3823,7 +3816,7 @@
         "hervatting",
         "tegelijkertijd"
       ],
-      "questionText": "De doelman van partij A, staande binnen zijn eigen strafschopgebied, slaat een tegenstander. Nadat dit heeft plaatsgevonden, rolt de bal over de zijlijn. De inworp wordt direct op correcte wijze uitgevoerd door de juiste partij. Pas nu ziet de scheidsrechter het vlagsignaal van zijn assistent en onderbreekt het spel. Na mondeling contact stuurt hij de doelman van het speelveld door het tonen van de rode kaart. Hoe zal de scheidsrechter het spel nu moeten hervatten?",
+      "questionText": "De doelverdediger van partij A, staande binnen zijn eigen strafschopgebied, slaat een tegenstander. Nadat dit heeft plaatsgevonden, rolt de bal over de zijlijn. De inworp wordt direct op correcte wijze uitgevoerd door de juiste partij. Pas nu ziet de scheidsrechter het vlagsignaal van zijn assistent en onderbreekt het spel. Na mondeling contact stuurt hij de doelverdediger van het speelveld door het tonen van de rode kaart. Hoe zal de scheidsrechter het spel nu moeten hervatten?",
       "options": [
         {
           "letter": "a",
@@ -3853,7 +3846,7 @@
         "eigendoelpunt",
         "baluitspel"
       ],
-      "questionText": "Een directe vrije schop, even buiten het strafschopgebied in het voordeel van de verdedigende partij, wordt teruggeplaatst op de doelverdediger. De scheidsrechter staat in de baan van het schot, waardoor de bal van richting verandert en in het doel verdwijnt, zonder dat iemand anders de bal raakt. Wat beslist de scheidsrechter?",
+      "questionText": "Een directe vrije schop, even buiten het strafschopgebied in het voordeel van de verdedigende partij, wordt teruggespeeld op de doelverdediger. De scheidsrechter staat in de baan van het schot, waardoor de bal van richting verandert en in het doel verdwijnt, zonder dat iemand anders de bal raakt. Wat beslist de scheidsrechter?",
       "options": [
         {
           "letter": "a",
@@ -3956,7 +3949,7 @@
         },
         {
           "letter": "d",
-          "text": "Hij zal de wedstrijd pas hervatten als er een aanvoerders is, want die moet er zijn."
+          "text": "Hij zal de wedstrijd pas hervatten als er een aanvoerder is, want die moet er zijn."
         }
       ],
       "correctLetter": "d",
@@ -4010,7 +4003,7 @@
         },
         {
           "letter": "c",
-          "text": "Als de speler het speelveld verlaat dan onderbreekt hij het spel onmiddellijk en wacht hij maximaal 30 min tot de speler weer terugkomt."
+          "text": "Als de speler het speelveld verlaat dan onderbreekt hij het spel onmiddellijk en wacht hij maximaal 30 minuten tot de speler weer terugkomt."
         },
         {
           "letter": "d",
@@ -4089,11 +4082,11 @@
       "options": [
         {
           "letter": "a",
-          "text": "Indien hij zich buitensporig inzet of grof optreedt tegenover een medespeler, terwijl de bal in het spel is."
+          "text": "Indien hij zich buitensporig inzet of de veiligheid van een medespeler in gevaar brengt, terwijl de bal in het spel is."
         },
         {
           "letter": "b",
-          "text": "Indien hij zich buitensporig inzet of grof optreedt tegenover een tegenstander, bij een duel om de bal."
+          "text": "Indien hij zich buitensporig inzet of de veiligheid van een tegenstander in gevaar brengt, bij een duel om de bal."
         },
         {
           "letter": "c",
@@ -4262,7 +4255,7 @@
       "tags": [
         "scheidsrechter"
       ],
-      "questionText": "Tijdens een luchtduel raken zowel een aanvaller als de doelman van de tegenpartij geblesseerd na een botsing. Er is geen overtreding begaan, maar de scheidsrechter fluit af en staat verzorging toe op het speelveld. Hoe moet de scheidsrechter handelen als de verzorging heeft plaatsgevonden?",
+      "questionText": "Tijdens een luchtduel raken zowel een aanvaller als de doelverdediger geblesseerd na een botsing. Er is geen overtreding begaan, maar de scheidsrechter fluit af en staat verzorging toe op het speelveld. Hoe moet de scheidsrechter handelen nadat de verzorging heeft plaatsgevonden?",
       "options": [
         {
           "letter": "a",
@@ -4369,7 +4362,7 @@
           "text": "De scheidsrechter fluit af en hervat het spel met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "a",
       "confidence": "high",
       "verified": false
     },
@@ -4510,7 +4503,7 @@
         },
         {
           "letter": "c",
-          "text": "Onmiddellijk nadat de inworp correct is genomen en binnen het speelveld is gekomen."
+          "text": "Onmiddellijk nadat de inworp is genomen en binnen het speelveld is gekomen."
         },
         {
           "letter": "d",
@@ -4950,7 +4943,7 @@
         },
         {
           "letter": "d",
-          "text": "Hij kent het doelpunt toe en geeft de verdediger een waarschuwing wegens onsportief gedrag."
+          "text": "Hij kent het doelpunt toe."
         }
       ],
       "correctLetter": "d",
@@ -5136,6 +5129,7 @@
       "id": 176,
       "rule": 13,
       "tags": [
+        "truc",
         "vrijeschop",
         "onbehoorlijkgedrag"
       ],
@@ -5158,7 +5152,7 @@
           "text": "Hij laat doorspelen."
         }
       ],
-      "correctLetter": "b",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
@@ -5288,7 +5282,7 @@
         "hervatting",
         "gooienvoorwerp"
       ],
-      "questionText": "(279.) Een aanvaller is na een duel achter de doellijn naast het doel van de tegenpartij terechtgekomen. De bal is in de handen van de doelverdediger. Plotseling ziet de scheidsrechter dat de doelverdediger zich, staande in zijn doelgebied, omdraait en de bal naar de aanvaller (tegenstander) gooit die ongeveer drie meter achter de doellijn staat. De aanvaller wordt daarbij geraakt. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Een aanvaller is na een duel achter de doellijn naast het doel van de tegenpartij terechtgekomen. De bal is in de handen van de doelverdediger. Plotseling ziet de scheidsrechter dat de doelverdediger zich, staande in zijn doelgebied, omdraait en de bal naar de aanvaller (tegenstander) gooit die ongeveer drie meter achter de doellijn staat. De aanvaller wordt daarbij geraakt. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
@@ -5503,14 +5497,14 @@
         },
         {
           "letter": "c",
-          "text": "Affluiten en het spel hervatten met een scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Affluiten en het spel hervatten met een scheidsrechtersbal op de plaats waar de bal de scheidsrechter raakte."
         },
         {
           "letter": "d",
           "text": "Doorspelen."
         }
       ],
-      "correctLetter": "a",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
@@ -5696,15 +5690,15 @@
       "tags": [
         "strafschoppenserie"
       ],
-      "questionText": "Bij een bekerwedstrijd moet de beslissing vallen door het nemen van strafschoppen.  Uit de derde strafschop wordt gescoord en de scheidsrechter kent het doelpunt toe. De doelverdediger is het niet eens met deze beslissing omdat hij van mening is dat de bal de doellijn niet volledig heeft gepasseerd en hij beledigt op grove wijze de scheidsrechter. De scheidsrechter toont hem de rode kaart. Mag de doelverdediger nu worden vervangen door de reservedoelman die nog op de bank zit?",
+      "questionText": "Bij een bekerwedstrijd moet de beslissing vallen door het nemen van strafschoppen.  Uit de derde strafschop wordt gescoord en de scheidsrechter kent het doelpunt toe. De doelverdediger is het niet eens met deze beslissing omdat hij van mening is dat de bal de doellijn niet volledig heeft gepasseerd en hij beledigt op grove wijze de scheidsrechter. De scheidsrechter toont hem de rode kaart. Mag de doelverdediger nu worden vervangen door de reservedoelverdediger die nog op de bank zit?",
       "options": [
         {
           "letter": "a",
-          "text": "Ja, een doelverdediger mag altijd tijdens een strafschoppenserie worden vervangen door een reservedoelman die op de bank zit."
+          "text": "Ja, een doelverdediger mag altijd tijdens een strafschoppenserie worden vervangen door een reservedoelverdediger die op de bank zit."
         },
         {
           "letter": "b",
-          "text": "Ja, dit mag mits deze reservedoelman vermeld staat op het wedstrijdformulier."
+          "text": "Ja, dit mag mits deze reservedoelverdediger vermeld staat op het wedstrijdformulier."
         },
         {
           "letter": "c",
@@ -5725,23 +5719,23 @@
       "tags": [
         "betredenspeelveld"
       ],
-      "questionText": "Een verdediger verlaat het speelveld zonder toestemming van de scheidsrechter door in de buurt van de hoekvlag snel over de zijlijn te stappen, omdat hij van mening is dat hij dan niet mee wordt beoordeeld bij een dreigende buitenspelsituatie.  Wat staat er in de spelregels m.b.t. deze situatie?",
+      "questionText": "Een verdediger verlaat het speelveld zonder toestemming van de scheidsrechter door in de buurt van de hoekvlag snel over de zijlijn te stappen, omdat hij van mening is dat hij dan niet mee wordt beoordeeld bij een dreigende buitenspelsituatie. Wat staat er in de spelregels m.b.t. deze situatie?",
       "options": [
         {
           "letter": "a",
-          "text": "Een verdediger die het speelveld bij de zijlijn verlaat zonder toestemming van de scheidsrechter, wordt geacht zich op de zijlijn te bevinden, maar alleen als hij dit doet om van schoeisel te wisselen."
+          "text": "Als de verdediger dit doet om van schoeisel te wisselen, wordt hij geacht zich op de zijlijn te bevinden."
         },
         {
           "letter": "b",
-          "text": "Een verdediger die het speelveld bij de zijlijn verlaat zonder toestemming van de scheidsrechter, wordt geacht zich op de zijlijn te bevinden, maar alleen als hij dit doet om verzorgd te worden."
+          "text": "Als de verdediger dit doet om verzorgd te worden, wordt hij geacht zich buiten het speelveld te bevinden."
         },
         {
           "letter": "c",
-          "text": "Een verdediger die, om welke reden dan ook, het speelveld bij de zijlijn verlaat zonder toestemming van de scheidsrechter, wordt geacht zich in deze situatie buiten het speelveld te bevinden."
+          "text": "Ongeacht de reden, de verdediger wordt geacht zich buiten het speelveld te bevinden."
         },
         {
           "letter": "d",
-          "text": "Een verdediger die, om welke reden dan ook, het speelveld bij de zijlijn verlaat zonder toestemming van de scheidsrechter, wordt geacht zich in deze situatie op de zijlijn te bevinden."
+          "text": "Ongeacht de reden, de verdediger wordt geacht zich op de zijlijn te bevinden."
         }
       ],
       "correctLetter": "d",
@@ -6131,7 +6125,7 @@
       "tags": [
         "tegelijkertijd"
       ],
-      "questionText": "Een verdediger trapt in een duel op de rand van het doelgebied veel te hoog de bal voor het gezicht van een aanvaller weg op het moment dat die aanvaller de bal in het verlaten doel wil koppen. De aanvaller wordt hierbij niet geraakt, omdat de aanvaller de verdediger op datzelfde moment met beide handen wegduwde. De bal wordt echter door de verdediger over het eigen doel getrapt. Wat zal de beslissing van de scheidsrechter moeten zijn? Motiveer het antwoord.",
+      "questionText": "Een verdediger trapt in een duel op de rand van het doelgebied veel te hoog de bal voor het gezicht van een aanvaller weg op het moment dat die aanvaller de bal in het verlaten doel wil koppen. De aanvaller wordt hierbij niet geraakt, omdat de aanvaller de verdediger op datzelfde moment met beide handen wegduwde. De bal wordt echter door de verdediger over het eigen doel getrapt. Wat zal de beslissing van de scheidsrechter moeten zijn?",
       "options": [
         {
           "letter": "a",
@@ -6479,7 +6473,7 @@
       "tags": [
         "buitenspel"
       ],
-      "questionText": "In het strafschopgebied van de tegenpartij staat een aanvaller op het moment van spelen in buitenspelpositie en beïnvloedt een tegenstander in zijn spel als hij vervolgens een duel aangaat met de verdediger. De aanvaller wil de bal koppen, maar dit wordt vervolgens verhinderd doordat de verdediger daarna een overtreding begaat door zijn tegenstander vast te houden. Hoe moet de scheidsrechter nu handelen?",
+      "questionText": "In het strafschopgebied van de tegenpartij staat een aanvaller op het moment van spelen in buitenspelpositie en beïnvloedt een tegenstander in zijn spel als hij vervolgens een duel aangaat met de verdediger. De aanvaller wil de bal koppen, maar dit wordt verhinderd doordat de verdediger een overtreding begaat door zijn tegenstander vast te houden. Hoe moet de scheidsrechter nu handelen?",
       "options": [
         {
           "letter": "a",
@@ -6487,7 +6481,7 @@
         },
         {
           "letter": "b",
-          "text": "De scheidsrechter hervat het spel met een scheidsrechtersbal, omdat zowel het buitenspel als het vasthouden bijna gelijktijdig plaats vinden."
+          "text": "De scheidsrechter hervat het spel met een scheidsrechtersbal, omdat zowel het buitenspel als het vasthouden gelijktijdig plaats vinden."
         },
         {
           "letter": "c",
@@ -6740,6 +6734,7 @@
       "id": 231,
       "rule": 12,
       "tags": [
+        "voorkomenscoringskans",
         "geelrood",
         "scheidsrechter"
       ],
@@ -6751,11 +6746,11 @@
         },
         {
           "letter": "b",
-          "text": "Hij toont de verdediger alsnog de rode kaart, omdat er volgens de regels daarna per se gescoord moet worden."
+          "text": "Hij geeft een doelschop en geeft de verdediger geen disciplinaire straf."
         },
         {
           "letter": "c",
-          "text": "Hij toont de verdediger de gele kaart, omdat er door het voordeel een duidelijke scoringskans bleef bestaan."
+          "text": "Hij toont de verdediger de gele kaart, omdat er door het voordeel een duidelijke scoringskans bleef bestaan, maar er niet gescoord werd."
         },
         {
           "letter": "d",
@@ -7209,7 +7204,7 @@
         "tegelijkertijd",
         "buitenspel"
       ],
-      "questionText": "Twee aanvallers, waarvan één vanuit een buitenspelpositie, rennen naar de bal die door een ploeggenoot werd gespeeld. Een verdediger, die zich op tien meter van de bal bevindt, brengt de aanvaller die zich in buitenspelpositie bevond op onvoorzichtige wijze ten val, voordat deze aanvaller de bal kan spelen. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Twee aanvallers, waarvan één vanuit een buitenspelpositie, rennen naar de bal die door een ploeggenoot werd gespeeld. Een verdediger brengt de aanvaller die zich in buitenspel- positie bevond op onvoorzichtige wijze ten val, voordat deze aanvaller de bal kan spelen. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
@@ -7793,7 +7788,7 @@
       "tags": [
         "tegelijkertijd"
       ],
-      "questionText": "Twee tegenstanders raken slaags met elkaar net buiten de zijlijn. De scheidsrechter onderbreekt het spel als de bal op het middenveld is. Hoe moet de scheidsrechter handelen?",
+      "questionText": "Twee tegenstanders raken slaags met elkaar net buiten de zijlijn. De scheidsrechter onderbreekt het spel als de bal op het middenveld is. Hoe moet de scheidsrechter handelen als hij niet weet wie er begonnen is?",
       "options": [
         {
           "letter": "a",
@@ -7880,7 +7875,7 @@
       "tags": [
         "inworp"
       ],
-      "questionText": "De inwerpende speler werpt met één hand in. De scheidsrechter ziet dit. Als de bal terechtkomt bij een tegenstander, hoe moet de scheidsrechter dan reageren?",
+      "questionText": "De inwerpende speler werpt met één hand in. De scheidsrechter ziet dit. Als de bal terechtkomt bij een tegenstander die door kan spelen, hoe moet de scheidsrechter dan reageren?",
       "options": [
         {
           "letter": "a",
@@ -7899,7 +7894,7 @@
           "text": "Hij onderbreekt het spel, geeft de inwerpende speler een waarschuwing door het tonen van de gele kaart wegens onsportief gedrag, en laat dezelfde partij inwerpen."
         }
       ],
-      "correctLetter": "a",
+      "correctLetter": "c",
       "confidence": "high",
       "verified": false
     },
@@ -8005,7 +8000,7 @@
         },
         {
           "letter": "b",
-          "text": "Scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
+          "text": "Scheidsrechtersbal op de plaats waar de bal de assistent-scheidsrechter raakte."
         },
         {
           "letter": "c",
@@ -8013,7 +8008,7 @@
         },
         {
           "letter": "d",
-          "text": "Directe vrije schop wegens hands en een waarschuwing wegens onsportief gedrag."
+          "text": "Scheidsrechtersbal op de plaats waar de bal was toen het spel werd onderbroken."
         }
       ],
       "correctLetter": "b",
@@ -8081,8 +8076,10 @@
     },
     {
       "id": 277,
-      "rule": null,
-      "tags": [],
+      "rule": 12,
+      "tags": [
+        "balbezitdoelverdediger"
+      ],
       "questionText": "Wat hoort in het onderstaande rijtje niet thuis? De doelverdediger heeft de bal in zijn bezit, wanneer hij …:",
       "options": [
         {
@@ -8258,7 +8255,7 @@
         "doelschop",
         "buitenspel"
       ],
-      "questionText": "Gesteund door een harde wind in de rug trapt de doelverdediger van partij A een doelschop hoog en ver op de andere speelhelft. Een medespeler van de doelverdediger, die op het moment dat de bal wordt getrapt alleen nog de uitlopende doelverdediger van partij B voor zich heeft, rent achter de bal aan maar de bal stuit over de doelman heen in het doel zonder aangeraakt te zijn. Wat moet de scheidsrechter beslissen?",
+      "questionText": "Gesteund door een harde wind in de rug trapt de doelverdediger van partij A een doelschop hoog en ver op de andere speelhelft. Een medespeler van de doelverdediger, die op het moment dat de bal wordt getrapt alleen nog de uitlopende doelverdediger van partij B voor zich heeft, rent achter de bal aan maar de bal stuit over de doelverdediger heen in het doel zonder aangeraakt te zijn. Wat moet de scheidsrechter beslissen?",
       "options": [
         {
           "letter": "a",
@@ -8475,14 +8472,14 @@
         },
         {
           "letter": "c",
-          "text": "Met een scheidsrechtersbal op de plaats waar de bal was toen de scheidsrechter af floot."
+          "text": "Met een scheidsrechtersbal op de plaats waar de bal was toen de scheidsrechter affloot."
         },
         {
           "letter": "d",
           "text": "Met een scheidsrechtersbal op de doellijn waar de ballenjongen het speelveld inkwam."
         }
       ],
-      "correctLetter": "c",
+      "correctLetter": "b",
       "confidence": "high",
       "verified": false
     },
@@ -8642,7 +8639,7 @@
       "options": [
         {
           "letter": "a",
-          "text": "De scheidsrechter hervat het spel met een directe vrije schop op de plaats van de overtreding."
+          "text": "De scheidsrechter hervat het spel met een directe vrije schop op de zijlijn."
         },
         {
           "letter": "b",
@@ -8650,7 +8647,7 @@
         },
         {
           "letter": "c",
-          "text": "De scheidsrechter hervat het spel met een indirecte vrije schop op de plaats van de overtreding."
+          "text": "De scheidsrechter hervat het spel met een indirecte vrije schop op de plaats waar de bal was toen het spel werd onderbroken."
         },
         {
           "letter": "d",
